@@ -1,3 +1,5 @@
+- General Tips:
+	- Better done without Online - Multiplayer. Multiplayer has to somehow link or just be for fun.
 - Background Storytelling #Game_Design
 	- Also like no story telling. This can be seen in such as Mario etc. Where people come from the mechanics first.
 	- Examples
@@ -12,4 +14,6 @@
 	- Games that does this:
 		- Rimworld
 		- Total War
+		- Models and simulations that create their own stories.
+-
 	-
