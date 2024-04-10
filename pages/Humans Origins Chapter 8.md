@@ -5,4 +5,6 @@
 - Whats the difference between Hominin and Hominids?
 	- Almost any biped vs taxonomic term for category of extinct great apes
 	- ![image.png](../assets/image_1712754549169_0.png)
+- Key Terms:
+	- ![image.png](../assets/image_1712754698707_0.png)
 -
