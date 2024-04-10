@@ -1,3 +1,4 @@
 - Linked below:
 	- Will be Examples of Great Story Telling Styles
+	- Understanding of different designs such as Economies.
 -
