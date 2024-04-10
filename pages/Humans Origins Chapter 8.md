@@ -2,3 +2,7 @@
 - In what epoch did the strepsirrhines and haplorrhines emerge?
 - Fossil Geologic Time Scale
 	- ![image.png](../assets/image_1712754450586_0.png)
+- Whats the difference between Hominin and Hominids?
+	- Almost any biped vs taxonomic term for category of extinct great apes
+	- ![image.png](../assets/image_1712754549169_0.png)
+-
