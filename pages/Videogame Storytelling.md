@@ -6,7 +6,11 @@
   CLOCK: [2024-04-10 Wed 00:16:22]--[2024-04-10 Wed 00:16:23] =>  00:00:01
   :END:
 - Todo:
-	- Witcher 3
+	- LATER Witcher 3
+	- LATER Red Dead Redemption
+	- LATER Elden Ring
+	- LATER Cyberpunk
+	-
 	-
 - Background Storytelling
   collapsed:: true
@@ -22,7 +26,7 @@
 	- Better done without Online - Multiplayer. Multiplayer has to somehow link or just be for fun.
 - Movie/Series Like Storytelling
 	- I would argue there are 2 successful:
-	-
+	- Movie like for specific such as
 - Story Building
   collapsed:: true
 	- Games that does this:
@@ -50,3 +54,4 @@
 		-
 - Single Player Storytelling Tips:
 	- Show using the environment instead
+-
