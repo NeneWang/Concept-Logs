@@ -18,13 +18,14 @@
 - Multiplayer
 	- Better not have storytelling, or backgorund-like. Make it dumb Fumnmu. with some hidden Trailer and Backgrounds
 	- Pvp and Coop are more friendly for stories.
-	- Otherwise Story Generators such as Rimworld could work
+	- Otherwise CoOp Story Generators such as:
+		- Zomboid
 	- Anti Patterns:
 		- Genshin Impact - Breaks the immersion having characters. Makes no sense to have that many cut scenes to be honest
 		- Wow and Other MMORPGs such as Dragon Nest. (Breaks Immersion, is everyone on this epic journey? xdd)
-	- Good Examples
+	- Good Examples - You are not uinique but a remplazable employee like.
 		- Lethal Company
 		- Hell Divers
-		- Counter Strike -
+		- Counter Strike - Ready Or Not- Phantasmofobia
 		-
 		-
