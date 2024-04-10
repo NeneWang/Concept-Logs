@@ -1,3 +1,4 @@
 - #ANTH
 - In what epoch did the strepsirrhines and haplorrhines emerge?
--
+- Fossil Geologic Time Scale
+	- ![image.png](../assets/image_1712754450586_0.png)
