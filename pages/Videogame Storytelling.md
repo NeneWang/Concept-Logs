@@ -1,6 +1,6 @@
-- background #Storytelling #Game_Design
--
-- Background Storytelling #Game_Design
+- References #Storytelling #Game_Design
+- I think is a little dumb to not play the games first.
+- Background Storytelling
   collapsed:: true
 	- Also like no story telling. This can be seen in such as Mario etc. Where people come from the mechanics first.
 	- Case Studies
@@ -9,7 +9,7 @@
 		- Here the story telling takes in the background, not taking itself that seriously. The player can expect to ignore it and not taking
 		- That's a story of beautiful Story Telling.
 		- ![image.png](../assets/image_1712720013660_0.png)
-- General Tips: #Tips
+- General Tips:
   collapsed:: true
 	- Better done without Online - Multiplayer. Multiplayer has to somehow link or just be for fun.
 - Movie/Series Like Storytelling
