@@ -1,5 +1,6 @@
-- Background Storytelling:
+- Background Storytelling
+	- Also
 	- {{video https://www.youtube.com/watch?v=cSz127Adpqs&ab_channel=SoberDwarf}}
-	-
+	- Here the story telling takes in the background, not taking itself that seriously. The player can expect to ignore it and not taking
 	- ![image.png](../assets/image_1712720013660_0.png)
 -
