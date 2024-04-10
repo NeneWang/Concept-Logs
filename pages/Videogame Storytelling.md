@@ -1,3 +1,5 @@
+- background #Storytelling #Game_Design
+-
 - Background Storytelling #Game_Design
   collapsed:: true
 	- Also like no story telling. This can be seen in such as Mario etc. Where people come from the mechanics first.
@@ -36,5 +38,5 @@
 		- Counter Strike - Ready Or Not- Phantasmofobia
 		-
 		-
-- Single Player Storytelling Tips: #Tips
+- Single Player Storytelling Tips:
 	-
