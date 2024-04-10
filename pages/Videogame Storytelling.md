@@ -17,7 +17,8 @@
 		- Models and simulations that create their own stories.
 - Patterns and Antipatterns
 	- Better not have storytelling, or backgorund-like. Make it dumb Fumnmu. with some hidden Trailer and Backgrounds
-	- Pvp and Coop are more friendly for stories.
+	- 2 Player Coop are more friendly for stories.
+		- With You Game.
 	- Otherwise CoOp Story Generators such as:
 		- Zomboid
 	- Anti Patterns:
