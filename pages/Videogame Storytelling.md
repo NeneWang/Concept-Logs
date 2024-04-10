@@ -15,8 +15,7 @@
 		- Rimworld
 		- Total War
 		- Models and simulations that create their own stories.
-- Multiplayer
-  collapsed:: true
+- Pattersn
 	- Better not have storytelling, or backgorund-like. Make it dumb Fumnmu. with some hidden Trailer and Backgrounds
 	- Pvp and Coop are more friendly for stories.
 	- Otherwise CoOp Story Generators such as:
