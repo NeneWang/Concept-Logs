@@ -6,6 +6,5 @@
 		- Here the story telling takes in the background, not taking itself that seriously. The player can expect to ignore it and not taking
 		- That's a story of beautiful Story Telling.
 		- ![image.png](../assets/image_1712720013660_0.png)
--
--
+- Movie Lik
 -
