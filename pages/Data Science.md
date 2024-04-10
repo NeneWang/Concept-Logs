@@ -1,2 +1,1 @@
 - [[NYC Temperature]]
-- [[Scatter Plot]]
