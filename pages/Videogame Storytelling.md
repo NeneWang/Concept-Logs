@@ -21,6 +21,8 @@
   collapsed:: true
 	- Better done without Online - Multiplayer. Multiplayer has to somehow link or just be for fun.
 - Movie/Series Like Storytelling
+	- I would argue there are 2 successful:
+	-
 - Story Building
   collapsed:: true
 	- Games that does this:
@@ -47,4 +49,4 @@
 		-
 		-
 - Single Player Storytelling Tips:
-	-
+	- Show using the environment instead
