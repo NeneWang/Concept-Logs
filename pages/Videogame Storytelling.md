@@ -7,6 +7,7 @@
 		- That's a story of beautiful Story Telling.
 		- ![image.png](../assets/image_1712720013660_0.png)
 - General Tips:
+  collapsed:: true
 	- Better done without Online - Multiplayer. Multiplayer has to somehow link or just be for fun.
 - Movie/Series Like Storytelling
 - Story Building
@@ -16,6 +17,7 @@
 		- Total War
 		- Models and simulations that create their own stories.
 - Patterns and Antipatterns on Multiplayer Games
+  collapsed:: true
 	- Better not have storytelling, or backgorund-like. Make it dumb Fumnmu. with some hidden Trailer and Backgrounds
 	- 2 Player Coop are more friendly for stories.
 		- It Takes Two
