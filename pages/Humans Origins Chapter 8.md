@@ -1,0 +1,3 @@
+- #ANTH
+- In what epoch did the strepsirrhines and haplorrhines emerge?
+	-
