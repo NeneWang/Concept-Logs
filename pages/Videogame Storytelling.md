@@ -1,4 +1,3 @@
--
 - References #Storytelling #Game_Design
 - I think is a little dumb to not play the games first.
 - DONE TO be done here?
