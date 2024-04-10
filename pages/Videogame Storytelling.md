@@ -1,5 +1,6 @@
 - References #Storytelling #Game_Design
 - I think is a little dumb to not play the games first.
+- []
 - Background Storytelling
   collapsed:: true
 	- Also like no story telling. This can be seen in such as Mario etc. Where people come from the mechanics first.
