@@ -19,7 +19,7 @@
 	- Better not have storytelling, or backgorund-like. Make it dumb Fumnmu. with some hidden Trailer and Backgrounds
 	- Anti Patterns:
 		- Genshin Impact - Breaks the immersion having characters. Makes no sense to have that many cut scenes to be honest
-		- Wow and Other MMORPGs such as Dragon Nest. (Breaks Immersion, is everyone on this epic )
+		- Wow and Other MMORPGs such as Dragon Nest. (Breaks Immersion, is everyone on this epic journey? xdd)
 	- Good Examples
 		- Lethal Company
 		- Hell Divers
