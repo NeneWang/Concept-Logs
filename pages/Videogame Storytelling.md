@@ -16,7 +16,12 @@
 		- Total War
 		- Models and simulations that create their own stories.
 - Multiplayer
-	- Better not have storytelling, or backgorund-like story telling
+	- Better not have storytelling, or backgorund-like. Make it dumb Fumnmu. with some hidden Trailer and Backgrounds
 	- Anti Patterns:
-		- Genshin Impact - Breaks the immersion having characters. Makes no sense to have that many cut scenes.
+		- Genshin Impact - Breaks the immersion having characters. Makes no sense to have that many cut scenes to be honest
+		- Wow and Other MMORPGs
+	- Good Examples
+		- Company
+		-
+		-
 		-
