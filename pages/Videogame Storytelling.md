@@ -1,21 +1,22 @@
-- General Tips:
-	- Better done without Online - Multiplayer. Multiplayer has to somehow link or just be for fun.
 - Background Storytelling #Game_Design
 	- Also like no story telling. This can be seen in such as Mario etc. Where people come from the mechanics first.
-	- Examples
+	- Case Studies
 	  collapsed:: true
 		- {{video https://www.youtube.com/watch?v=cSz127Adpqs&ab_channel=SoberDwarf}}
 		- Here the story telling takes in the background, not taking itself that seriously. The player can expect to ignore it and not taking
 		- That's a story of beautiful Story Telling.
 		- ![image.png](../assets/image_1712720013660_0.png)
+- General Tips:
+	- Better done without Online - Multiplayer. Multiplayer has to somehow link or just be for fun.
 - Movie/Series Like Storytelling
-	-
 - Story Building
+  collapsed:: true
 	- Games that does this:
 		- Rimworld
 		- Total War
 		- Models and simulations that create their own stories.
 - Multiplayer
+  collapsed:: true
 	- Better not have storytelling, or backgorund-like. Make it dumb Fumnmu. with some hidden Trailer and Backgrounds
 	- Pvp and Coop are more friendly for stories.
 	- Otherwise CoOp Story Generators such as:
@@ -23,7 +24,7 @@
 	- Anti Patterns:
 		- Genshin Impact - Breaks the immersion having characters. Makes no sense to have that many cut scenes to be honest
 		- Wow and Other MMORPGs such as Dragon Nest. (Breaks Immersion, is everyone on this epic journey? xdd)
-	- Good Examples - You are not uinique but a remplazable employee like.
+	- Good Examples - You are not unique but a reemplazable employee like.
 		- Lethal Company
 		- Hell Divers
 		- Counter Strike - Ready Or Not- Phantasmofobia
