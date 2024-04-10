@@ -1,10 +1,13 @@
 - References #Storytelling #Game_Design
 - I think is a little dumb to not play the games first.
-- LATER TO be done here?
+- DONE TO be done here?
   :LOGBOOK:
   CLOCK: [2024-04-10 Wed 00:16:18]--[2024-04-10 Wed 00:16:18] =>  00:00:00
   CLOCK: [2024-04-10 Wed 00:16:22]--[2024-04-10 Wed 00:16:23] =>  00:00:01
   :END:
+- Todo:
+	- Witcher 3
+	-
 - Background Storytelling
   collapsed:: true
 	- Also like no story telling. This can be seen in such as Mario etc. Where people come from the mechanics first.
