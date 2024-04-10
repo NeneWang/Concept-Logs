@@ -1,0 +1,1 @@
+- Capture temperatures can b captured used means.
