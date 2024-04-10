@@ -15,7 +15,7 @@
 		- Rimworld
 		- Total War
 		- Models and simulations that create their own stories.
-- Patterns and Antipatterns
+- Patterns and Antipatterns on Multiplayer Games
 	- Better not have storytelling, or backgorund-like. Make it dumb Fumnmu. with some hidden Trailer and Backgrounds
 	- 2 Player Coop are more friendly for stories.
 		- It Takes Two
