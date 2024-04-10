@@ -1,1 +1,5 @@
+- Background Storytelling:
+	- {{video https://www.youtube.com/watch?v=cSz127Adpqs&ab_channel=SoberDwarf}}
+	-
+	- ![image.png](../assets/image_1712720013660_0.png)
 -
