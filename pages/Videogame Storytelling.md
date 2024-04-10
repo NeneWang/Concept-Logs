@@ -1,4 +1,4 @@
-- Background Storytelling
+- Background Storytelling #Game_Design
 	- Also like no story telling. This can be seen in such as Mario etc. Where people come from the mechanics first.
 	- {{video https://www.youtube.com/watch?v=cSz127Adpqs&ab_channel=SoberDwarf}}
 	- Here the story telling takes in the background, not taking itself that seriously. The player can expect to ignore it and not taking
