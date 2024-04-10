@@ -26,6 +26,7 @@
 		- Genshin Impact - Breaks the immersion having characters. Makes no sense to have that many cut scenes to be honest
 		- Wow and Other MMORPGs such as Dragon Nest. (Breaks Immersion, is everyone on this epic journey? xdd)
 		- Halo - Too much cutscenes.
+			- In my opinion it should just treat you as a squad and have a squad member follow you even on single player.
 	- Good Examples - You are not unique but a reemplazable employee like.
 		- Lethal Company
 		- Hell Divers
