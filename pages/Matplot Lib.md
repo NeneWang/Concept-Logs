@@ -20,7 +20,6 @@
 		  plt.xlim(0, 1.8);
 		  ```
 - ## Scatter Plotting
-  collapsed:: true
 	- What does `describe()` do? #card #pandas
 	  collapsed:: true
 		- It describe mean, etc statistics
