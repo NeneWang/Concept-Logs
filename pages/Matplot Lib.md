@@ -21,15 +21,33 @@
 		  ```
 - ## Scatter Plotting
 	- What does `describe()` do? #card #pandas
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2024-04-15T17:18:41.156Z
+	  card-last-reviewed:: 2024-04-11T17:18:41.159Z
+	  card-last-score:: 5
 	  collapsed:: true
 		- It describe mean, etc statistics
 	- Aside from the different features available in `plt.plot` and `plt.scatter`, why might you choose to use one over the other? #card #matplot
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2024-04-15T17:18:59.489Z
+	  card-last-reviewed:: 2024-04-11T17:18:59.489Z
+	  card-last-score:: 5
 	  collapsed:: true
 		- `plt.plot` should be preferred over `plt.scatter` for large datasets.
 		- `plt.plot` cannot do sizes and colors in comarison
 - ## Customizing Legends
   collapsed:: true
 	- How to create legends like the following: #card #legends ![image.png](../assets/image_1712765417139_0.png)
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2024-04-15T17:19:15.042Z
+	  card-last-reviewed:: 2024-04-11T17:19:15.042Z
+	  card-last-score:: 5
 	  collapsed:: true
 		- {{cloze ax.plot(x, np.sin(x), '-b', label='Sine')
 		  ax.plot(x, np.cos(x), '--r', label='Cosine')}}
@@ -42,6 +60,12 @@
 		  leg = ax.legend();
 		  ```
 	- How to move the legend to the upper left? #card #legends ![image.png](../assets/image_1712765720396_0.png)
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2024-04-15T17:19:23.073Z
+	  card-last-reviewed:: 2024-04-11T17:19:23.074Z
+	  card-last-score:: 5
 	  collapsed:: true
 		- ```python
 		  ax.legend(loc='upper left', frameon=False)
