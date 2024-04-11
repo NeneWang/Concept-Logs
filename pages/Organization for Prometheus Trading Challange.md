@@ -1,0 +1,19 @@
+- Organize the competition.
+- Send Short Link and Youtube to be sent.
+- Welcome Meeting for Q&A on April 22nth.
+- Armando Tasks
+	- Meeting with Jonathan Fix focus
+	- Meeting with Panelist.
+		- As long as before it ends
+		- Emails
+	- Link SHOULD Be always there
+- Nelson Tasks - Create for Logistics
+	- Emails Templates
+	- Video Introduction Guide
+	- Default Competition set.
+	- Question: Bots
+		- Bad Bots on the backend for pumping the number
+	-
+	-
+	-
+-
