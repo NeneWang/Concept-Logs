@@ -3,4 +3,4 @@
 - Considerations:
 	- Reading the Official Documentation
 - Candidates Solutions
-	-
+	- Writting Code, then checking on the code. And explore the classes
