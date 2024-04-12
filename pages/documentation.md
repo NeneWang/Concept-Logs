@@ -1,0 +1,8 @@
+- Ideally here you write down documentation you need to read given new terms that you found:
+-
+- Asp.net
+- Angular
+- Python
+- Pandas
+- Numpy
+-
