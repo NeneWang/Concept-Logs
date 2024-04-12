@@ -1,3 +1,6 @@
 - Basic Terminal Commands
 	- How to add Migration? #card
+		- dotnet ef migrations add InitialCreate
+	- How to update database? #card
+		- dotnet ef database update
 	-
