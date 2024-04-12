@@ -1,0 +1,7 @@
+- [WebApplication Class](https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.webapplication?view=aspnetcore-8.0) #card
+	- The web application used to configure the HTTP pipeline, and routes.
+- Web Application Builder #card
+	- Initializes a new instance of the WebApplicationBuilder class with preconfigured defaults.
+	- It builds an Web application with the passed down properties.
+	- Note how many of the services to be added are  inside of the Services Property.
+	-
