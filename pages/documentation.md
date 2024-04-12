@@ -1,4 +1,5 @@
 - Ideally here you write down documentation you need to read given new terms that you found:
+- meta: #LATER
 -
 - C#
 	- C#
@@ -12,4 +13,5 @@
 	- Python
 	- Pandas
 	- Numpy
--
+- General Words
+	-
