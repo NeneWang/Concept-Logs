@@ -1,3 +1,4 @@
+- Main Documentation can be found here: https://learn.microsoft.com/en-us/ef/
 - Basic Terminal Commands
 	- How to add Migration? #card
 		- dotnet ef migrations add InitialCreate
