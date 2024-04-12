@@ -3,7 +3,8 @@
 - Considerations:
 	- Reading the Official Documentation
 	- Just reading the documentation might not mean officially understanding what's going on
-	- Very high level memorization prompts: Ideally using Concept Logs, to define and to memorize: Why would you use this class and what is usually stored on this library tools?
+	- Very high level memorization prompts: Ideally using Concept Logs, to define and to memorize - questions would be in the order of:
+		- Why would you use this class and what is usually stored on this library tools?
 - Candidates Solutions
 	- Writting Code, then checking on the code. And explore the classes and also view what other potential methods you could have used given that class.
 		- If dont know yet, understand it's parent library
