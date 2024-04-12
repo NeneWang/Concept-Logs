@@ -7,4 +7,5 @@
 	- LATER Dotnet migrations cheatsheet:
 	- LATER Memorize pieces of the code to setup
 	- LATER Basic Libraries that were used on this case
+	- [[entitity-framework-cheatsheet]]
 	-

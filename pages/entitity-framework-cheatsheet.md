@@ -1,0 +1,3 @@
+- Basic Terminal Commands
+	- How to add Migration? #card
+	-
