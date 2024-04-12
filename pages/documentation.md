@@ -1,8 +1,11 @@
 - Ideally here you write down documentation you need to read given new terms that you found:
 -
-- Asp.net
-- Angular
+- .net
+	- Asp.net
+	- Unity
+- Javascript
+	- Angular
 - Python
-- Pandas
-- Numpy
+	- Pandas
+	- Numpy
 -
