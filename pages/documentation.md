@@ -7,6 +7,7 @@
 - Javascript
 	- Javascript
 	- Angular
+	- Typescript
 - Python
 	- Python
 	- Pandas
