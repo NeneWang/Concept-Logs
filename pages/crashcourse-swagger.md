@@ -3,5 +3,5 @@
 - Results:
 	- ![image.png](../assets/image_1712948432710_0.png)
 	- Gtihub: https://github.com/NeneWang/ExampleWebAPI
-- Key Things to learn:
+- Key Things to explore:
 	-
