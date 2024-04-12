@@ -1,5 +1,6 @@
-- meta: #strategy
+- meta: #strategy #documentation
 - Prompt: Whats an optimal way to master a framework or Library?
 - Considerations:
-	- Reading the Official Documentaiton
-- Candidates SOlutions
+	- Reading the Official Documentation
+- Candidates Solutions
+	-
