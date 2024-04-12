@@ -4,4 +4,7 @@
 	- ![image.png](../assets/image_1712948432710_0.png)
 	- Gtihub: https://github.com/NeneWang/ExampleWebAPI
 - Key Things to explore:
+	- LATER Dotnet migrations cheatsheet:
+	- LATER Memorize pieces of the code to setup
+	- LATER Basic Libraries that were used on this case
 	-
