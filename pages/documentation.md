@@ -2,11 +2,10 @@
 - meta: #LATER
 -
 - C#
-  collapsed:: true
 	- C#
 	- Asp.net [[dotnet-entity-framework-docs]]
-		- LATER Microsoft.AspNetCore.Builder
-		- LATER Microsoft.EntityFrameworkCore
+		- LATER [[Microsoft.AspNetCore.Builder]]
+		- LATER [[Microsoft.EntityFrameworkCore]]
 			- LATER DbContext
 			- LATER DBContextOptions
 			- LATER Set

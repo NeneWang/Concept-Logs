@@ -8,5 +8,11 @@
 - Candidates Solutions
 	- Writing Code, then checking on the code. And explore the classes and also view what other potential methods you could have used given that class.
 		- If don't know yet, understand it's parent library
-		- This solution is **more** efficient than the base solution of just
-	- Exploring the doucmentation also while taking
+		- Workflow:
+			- Adding the documentation path to the corresponding [[documentation]] section.
+			- Once the project is done, search and add details to the page provided for such documentation to be annotated.
+		- Reasons
+			- This solution is **more** efficient than the base solution of (attempting to memo all documentaiton)
+			-
+			-
+	-
