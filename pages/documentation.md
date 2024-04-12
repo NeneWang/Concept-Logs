@@ -5,6 +5,8 @@
 	- C#
 	- Asp.net
 		- LATER Microsoft.AspNetCore.Builder
+		- LATER Microsoft.EntityFrameworkCore
+			- LATER DbContext
 		-
 	- Unity
 - Javascript
