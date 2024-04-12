@@ -1,6 +1,6 @@
 - [Systems Data Entity](https://learn.microsoft.com/en-us/dotnet/api/system.data.entity?view=entity-framework-6.2.0)
 - Mostly Database management properties can be found here
-- Explored Classes
+- Explored Definitions of the following Classes
 	- Database #card
 		- Database to manage actual database such as connections, creating, etc.
 		- Formal Definition
