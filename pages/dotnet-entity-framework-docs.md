@@ -1,2 +1,4 @@
 - [Systems Data Entity](https://learn.microsoft.com/en-us/dotnet/api/system.data.entity?view=entity-framework-6.2.0)
-- Handles
+- Mostly Database management properties can be found here
+- Explored Classes
+	- Database
