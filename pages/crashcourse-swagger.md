@@ -1,0 +1,4 @@
+- Crashcourse lInk: Creashcourse: https://rubenheeren.com/articles/aspdotnet-web-api-crash-course-exploring-dotnet-e4.html
+- Results:
+	- ![image.png](../assets/image_1712948432710_0.png)
+-
