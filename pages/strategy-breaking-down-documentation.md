@@ -6,6 +6,7 @@
 	- Very high level memorization prompts: Ideally using Concept Logs, to define and to memorize - questions would be in the order of:
 		- Why would you use this class and what is usually stored on this library tools?
 - Candidates Solutions
-	- Writting Code, then checking on the code. And explore the classes and also view what other potential methods you could have used given that class.
-		- If dont know yet, understand it's parent library
+	- Writing Code, then checking on the code. And explore the classes and also view what other potential methods you could have used given that class.
+		- If don't know yet, understand it's parent library
+		- This solution is **more** efficient than the base solution of just
 	- Exploring the doucmentation also while taking
