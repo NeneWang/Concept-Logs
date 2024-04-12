@@ -2,6 +2,7 @@
 - meta: #LATER
 -
 - C#
+  collapsed:: true
 	- C#
 	- Asp.net [[dotnet-entity-framework-docs]]
 		- LATER Microsoft.AspNetCore.Builder
@@ -16,10 +17,12 @@
 		-
 	- Unity
 - Javascript
+  collapsed:: true
 	- Javascript
 	- Angular
 	- Typescript
 - Python
+  collapsed:: true
 	- Python
 	- Pandas
 	- Numpy
