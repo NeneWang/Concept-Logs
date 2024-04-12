@@ -2,5 +2,8 @@
 - Prompt: Whats an optimal way to master a framework or Library?
 - Considerations:
 	- Reading the Official Documentation
+	- Just reading the documentation might not mean officially understanding what's going on
+	-
 - Candidates Solutions
-	- Writting Code, then checking on the code. And explore the classes
+	- Writting Code, then checking on the code. And explore the classes and also view what other potential methods you could have used given that class.
+		- If dont know yet, understand it's parent library
