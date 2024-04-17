@@ -3,4 +3,4 @@
 - What is the reason you cant read DNA in a fossil? #card
 	- Because it is decayed
 - What is Prognathic Face and Postorbital bar used for?
-	-
+	- The classification for primate fossils.
