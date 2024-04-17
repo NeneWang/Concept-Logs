@@ -1,4 +1,5 @@
 - Which two forms are considered the early Eocenne super primate? #card
 	- ![image.png](../assets/image_1713356761848_0.png)
-- a
+- What is the reason you cant read DNA in a fossil? #card
+	- Because it is decayed
 -
