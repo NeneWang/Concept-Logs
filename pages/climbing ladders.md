@@ -1,3 +1,5 @@
 - [[Tactics as an employee]]
 - Get into a company as an entry level, grow the company from inside and you will naturally grow.
 - Understand the Slave-Master pattern to master things to take jobs.
+- [[Certifications Path]]
+-
