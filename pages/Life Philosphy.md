@@ -1,0 +1,4 @@
+- Focus on what you can Change
+	- Spiritual Growth
+- Actionables
+	-
