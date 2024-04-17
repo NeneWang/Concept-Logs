@@ -4,4 +4,4 @@
 	- Because it is decayed
 - What is Prognathic Face and Postorbital bar used for?
 	- The classification for primate fossils.
-- Bipedialims.
+- What are the main characteristics of Bipade
