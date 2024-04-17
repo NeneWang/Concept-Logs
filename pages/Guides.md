@@ -1,4 +1,7 @@
-### My Guide
+## My Development Guide
+- Goals
+	-
+- Pages
 	- [[A Subjective Research Approach]]
 	- [[Core-Checklist]]
 	- [[climbing ladders]]
