@@ -1,4 +1,4 @@
-- meta: #strategy #documentation
+- meta: #strategy #Documentation
 - Prompt: Whats an optimal way to master a framework or Library?
 - Considerations:
 	- Reading the Official Documentation
@@ -9,7 +9,7 @@
 	- Writing Code, then checking on the code. And explore the classes and also view what other potential methods you could have used given that class.
 		- If don't know yet, understand it's parent library
 		- Workflow:
-			- Adding the documentation path to the corresponding [[documentation]] section.
+			- Adding the documentation path to the corresponding [[Documentation]] section.
 			- Once the project is done, search and add details to the page provided for such documentation to be annotated.
 		- Reasons
 			- This solution is **more** efficient than the base solution of (attempting to memo all documentaiton)

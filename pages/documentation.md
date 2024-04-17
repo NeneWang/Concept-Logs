@@ -1,4 +1,5 @@
 - Ideally here you write down documentation you need to read given new terms that you found:
+  title:: Documentation
 - meta: #LATER
 -
 -
@@ -6,6 +7,8 @@
 	- [[Algorithms]]
 	- [[Data Science]]
 	- [[Videogame Storytelling]]
+	- [[Misc Classes]]
+	-
 -
 - **Backlog**
 - C#
