@@ -1,4 +1,10 @@
 - Focus on what you can Change
 	- Spiritual Growth
+	- Look forward to appreciate the small things
+		- Listening to Music while traveling to Work
+		- Drawing and
+	- Create Small happiness
+		- Use your life to build a long term legacy to contribute to some else's small happiness for future members.
 - Actionables
-	-
+	- Thank everyday the gods for the opportunity to create
+		- To create and to work on Projects
