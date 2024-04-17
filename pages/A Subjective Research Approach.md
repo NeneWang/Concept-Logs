@@ -1,0 +1,16 @@
+- Following Checklists.
+	- TODO CEO is product-based. From an engineering background with engineering - on the job experience.. Product Lovers
+		- Examples are: Jeff Bezos
+		- Bad Examples:
+	- TODO Human Resources:
+		- Talent Keeping: Don't have Offshoring Outsourcing Practices keep talent and production in House
+		- NO DEI nonsense: DO they virtue signal? What are their Ads? What are their Products?
+			- They are clear
+			- Example of filters catches: RIOT diverse casting in purpose. Budlight
+	- TODO Ethics: Do they sell user data without user knowing? Do they do straight Illegal things? Do they have anti-competitive practices such as stealing ideas? stealing profit?
+- Core Ideas:
+	- Culture & Talent matters for an organization.
+	- CEO Philophy matters.
+		- Is he an engineer or just a business guy? Does he only tak e care
+		- Does he hire managers and corporate messes or do they hire  technical talent instead?
+			- Catch: Google and their bullshit hr.

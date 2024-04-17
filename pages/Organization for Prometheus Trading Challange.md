@@ -8,9 +8,18 @@
 		- Emails
 	- Link SHOULD Be always there
 - Nelson Tasks - Create for Logistics
-	- Emails Templates
-	- Video Introduction Guide
-	- Default Competition set.
+	- NOW [[Emails Templates]]
+	  :LOGBOOK:
+	  CLOCK: [2024-04-17 Wed 13:44:17]
+	  :END:
+	- NOW [[Video Introduction Outline]]
+	  :LOGBOOK:
+	  CLOCK: [2024-04-17 Wed 13:44:20]
+	  :END:
+	- NOW Default Competition set.
+	  :LOGBOOK:
+	  CLOCK: [2024-04-17 Wed 13:44:15]
+	  :END:
 	- Question: Bots
 		- Bad Bots on the backend for pumping the number
 	-

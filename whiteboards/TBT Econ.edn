@@ -43,7 +43,7 @@
 :collapsedHeight 0
 :nonce 1712959699890}}
 :block/updated-at 1712960144868} 
-{:block/content "TBT"
+{:block/content "TBT_Econ: https://docs.google.com/spreadsheets/d/1ZKq5jy36Ap0IGQGXAw5yUdI68JaKTdyzYKNIfo9ZgZo/edit#gid=0\n:LOGBOOK:\nCLOCK: [2024-04-12 Fri 18:22:24]--[2024-04-12 Fri 18:22:24] =>  00:00:00\nCLOCK: [2024-04-12 Fri 18:22:25]--[2024-04-12 Fri 18:22:25] =>  00:00:00\n:END:"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6619b0d6-3c12-4547-99e5-a14e963e502e"}
@@ -52,7 +52,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "6619b416-d05a-41fb-9ce7-014aefeca7ff"} 
-{:block/created-at 1712960535092
+{:block/created-at 1712960545947
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -68,17 +68,17 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40]
+:size [400 62]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "1c1e3900-f91b-11ee-b496-d762b1624df5"
 :noFill false
-:point [88 8]
+:point [-80 -80]
 :parentId "6619b0ab-a439-46dd-951f-5fe521b8898b"
 :collapsedHeight 0
-:nonce 1712960532626}}
-:block/updated-at 1712960535092})
+:nonce 1712960532699}}
+:block/updated-at 1712960545947})
 :pages (
 {:block/uuid #uuid "6619b0ab-a439-46dd-951f-5fe521b8898b"
 :block/properties 
@@ -91,7 +91,7 @@
 :nonce 1
 :assets []
 :shapes-index ("2bb70f60-f919-11ee-b496-d762b1624df5" "1c1e3900-f91b-11ee-b496-d762b1624df5")}}
-:block/updated-at 1712960536829
+:block/updated-at 1712960549062
 :block/created-at 1712959659579
 :block/type "whiteboard"
 :block/name "tbt econ"
