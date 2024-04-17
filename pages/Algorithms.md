@@ -1,8 +1,10 @@
 - *Objective*
 	- A quick documentation of different algorithms
 	- Algorithms documented will have a small abstract snippet that are intended to become cards
+	- Procedure
+		-
 - Algorithms
 - Backlog Lists
-	- *Instead of *
+	- *Document and *
 - Backlog Project
 	-
