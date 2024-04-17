@@ -1,8 +1,9 @@
 - Focus on what you can Change
 	- Spiritual Growth
 	- Look forward to appreciate the small things
-		- Listening to Music while traveling to Work
-		- Drawing and
+		- Listening to Music while traveling to Work Reading books on my way to work
+		- Drawing or Creating Projects at night while machining.
+		- Sending funny snapchats to your wife.
 	- Create Small happiness
 		- Use your life to build a long term legacy to contribute to some else's small happiness for future members.
 - Actionables
