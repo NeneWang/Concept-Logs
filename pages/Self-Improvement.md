@@ -1,4 +1,8 @@
-- Identify your Problems, What is it that you want to change? What is the default cost to achieve such?
+- Have a vision
+	- Identify your Problems,
+	- What is it that you want to change?
+	- What is the default cost to achieve such?
 - Build Projects to Learn
 - Documentation as a Scientist Journal
+	-
 -
