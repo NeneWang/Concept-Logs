@@ -1,0 +1,2 @@
+- Tactics as an employeee
+- Pursue
