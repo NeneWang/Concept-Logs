@@ -1,6 +1,13 @@
 - Ideally here you write down documentation you need to read given new terms that you found:
 - meta: #LATER
 -
+-
+- **Current Documentation**:
+	- [[Algorithms]]
+	- [[Data Science]]
+	-
+-
+- **Backlog**
 - C#
 	- C#
 	- Asp.net [[dotnet-entity-framework-docs]]

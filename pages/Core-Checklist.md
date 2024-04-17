@@ -1,0 +1,12 @@
+- *Checklist to solve any problems*
+- Have a vision
+	- Identify your Problems,
+	- What is it that you want to change?
+	- What is the default cost to achieve such?
+- Build [[Project]] to Learn
+- [[documentation]] as a Scientist Journal
+	- Explore Problems
+	- Document cluster topics from Problem
+	-
+-
+-
