@@ -2,4 +2,5 @@
 	- ![image.png](../assets/image_1713356761848_0.png)
 - What is the reason you cant read DNA in a fossil? #card
 	- Because it is decayed
--
+- What is Prognathic Face and Postorbital bar used for?
+	-
