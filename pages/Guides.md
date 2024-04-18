@@ -4,7 +4,7 @@
 - Pages
 	- [[A Subjective Research Approach]]
 	- [[Core-Checklist]]
-	- [[climbing ladders]]
+	- [[Corporate Skills]]
 	- [[Philosophy]]
 	- [[Job Searching]]
 	-

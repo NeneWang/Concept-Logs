@@ -1,2 +1,2 @@
-- Be the dots taker.
+- Be the one [[Taking Meeting notes]]
 -
