@@ -1,6 +1,6 @@
 - Keep the [[Documentation]] as concise and as close to the code as possible.
 - Avoid Duplication of Documentation.
 	- Study case: The Models Multi Link References
-	- Using Logseq to have links around the documentation.
+	- Using Logseq to have links around the [[Documentation]] .
 - Keep as much as you can in a single page.
 - Ensure Documentation can be queried.
