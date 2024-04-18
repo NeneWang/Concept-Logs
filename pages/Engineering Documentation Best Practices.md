@@ -3,4 +3,4 @@
 	- Study case: The Models Multi Link References
 	- Using Logseq to have links around the [[Documentation]] .
 - Keep as much as you can in a single page.
-- Ensure Documentation can be queried.
+- Ensure [[Documentation]] can be queried.
