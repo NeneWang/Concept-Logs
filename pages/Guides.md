@@ -6,6 +6,8 @@
 	- [[Core-Checklist]]
 	- [[climbing ladders]]
 	- [[Philosophy]]
+	- [[Job Searching]]
+	-
 	-
 	-
 	-

@@ -1,0 +1,7 @@
+- Notes
+	- interviewing
+		- [[STAR METHOD]]
+- Actionables
+	- Before Interviewing:
+		- TODO Craft 10 Stories per job using the STAR Method
+		-

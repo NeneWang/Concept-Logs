@@ -4,7 +4,7 @@
 	- Procedure
 		-
 - Algorithms
-	- *Categorize by cateogory*
+	- *Categorize by category*
 	-
 - Backlog Lists
 	- *Document and *
