@@ -5,4 +5,5 @@
 - Keep as much as you can in a single page.
 - Ensure [[Documentation]] can be queried.
 - Keep a [[Taking Meeting notes]] Documentation.
+- If you are in a team. Keep it in a single ecosystem.
 -

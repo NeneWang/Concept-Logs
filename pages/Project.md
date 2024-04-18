@@ -1,4 +1,4 @@
 - [[tbt_econ]]
 - [[Organization for Prometheus Trading Challange]]
-- [[Childhood Education Project]]
+- [[Early-K Education Project]]
 -
