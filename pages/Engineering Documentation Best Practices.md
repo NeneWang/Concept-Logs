@@ -4,3 +4,5 @@
 	- Using Logseq to have links around the [[Documentation]] .
 - Keep as much as you can in a single page.
 - Ensure [[Documentation]] can be queried.
+- Keep a [[Taking Meeting notes]] Documentation.
+-
