@@ -1,9 +1,4 @@
 - The following are examples:
-- When Changing a model
-	- How does that reflect in Processing
-		- What are the backend Test Cases to Add?
-	- How does that reflect on the front end?
-		- What are the front end Stories to Add?
 - When Having a meeting
 	- Write down the Issues (To be discussed) Actions (To be Taken)  Decisions ( Design Decisions)
 -
