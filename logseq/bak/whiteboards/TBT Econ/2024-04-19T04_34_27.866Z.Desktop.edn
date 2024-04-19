@@ -1,0 +1,98 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6619b0ab-a439-46dd-951f-5fe521b8898b"}
+:block/parent 
+{:block/uuid #uuid "6619b0ab-a439-46dd-951f-5fe521b8898b"}
+:block/uuid #uuid "6619b0be-cdd1-4291-a8ac-a106121df91b"} 
+{:block/content "Asset Card\n:LOGBOOK:\nCLOCK: [2024-04-12 Fri 18:08:28]\n:END:\n----\n+ Name | Naval Ship\n+ Description : str| can be Null.\n+ Url : str | where more\ninformation\n+ Image: str | [].png\n+ Type: str[Enum] | Ship\n+ DeployCost: int | 300 \n+ ResourceCostType: str[Enum] |"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6619b0be-cdd1-4291-a8ac-a106121df91b"}
+:block/parent 
+{:block/uuid #uuid "6619b0ab-a439-46dd-951f-5fe521b8898b"}
+:block/properties 
+{}
+:block/uuid #uuid "6619b0d6-3c12-4547-99e5-a14e963e502e"} 
+{:block/created-at 1712960144868
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "6619b0d6-3c12-4547-99e5-a14e963e502e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [184 216.99998704472898]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2bb70f60-f919-11ee-b496-d762b1624df5"
+:noFill false
+:point [-64 136]
+:parentId "6619b0ab-a439-46dd-951f-5fe521b8898b"
+:collapsedHeight 0
+:nonce 1712959699890}}
+:block/updated-at 1712960144868} 
+{:block/content "TBT"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6619b0d6-3c12-4547-99e5-a14e963e502e"}
+:block/parent 
+{:block/uuid #uuid "6619b0ab-a439-46dd-951f-5fe521b8898b"}
+:block/properties 
+{}
+:block/uuid #uuid "6619b416-d05a-41fb-9ce7-014aefeca7ff"} 
+{:block/created-at 1712960535092
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "6619b416-d05a-41fb-9ce7-014aefeca7ff"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1c1e3900-f91b-11ee-b496-d762b1624df5"
+:noFill false
+:point [88 8]
+:parentId "6619b0ab-a439-46dd-951f-5fe521b8898b"
+:collapsedHeight 0
+:nonce 1712960532626}}
+:block/updated-at 1712960535092})
+:pages (
+{:block/uuid #uuid "6619b0ab-a439-46dd-951f-5fe521b8898b"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6619b0ab-a439-46dd-951f-5fe521b8898b"
+:name "tbt econ"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("2bb70f60-f919-11ee-b496-d762b1624df5" "1c1e3900-f91b-11ee-b496-d762b1624df5")}}
+:block/updated-at 1712960536829
+:block/created-at 1712959659579
+:block/type "whiteboard"
+:block/name "tbt econ"
+:block/original-name "tbt econ"})}
