@@ -1,7 +1,7 @@
 - Ideally here you write down documentation you need to read given new terms that you found:
 - meta: #LATER
 -
--
+- [[Key Operations]]
 - **Current Documentation**:
 	- [[Algorithms]]
 	- [[Data Science]]

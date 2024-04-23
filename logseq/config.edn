@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["documentation" "guides" "project" "algorithms" "data science"]
+ :favorites ["key operations" "documentation" "guides" "project" "algorithms" "data science"]
 
  ;; Set flashcards interval.
  ;; Expected value:
