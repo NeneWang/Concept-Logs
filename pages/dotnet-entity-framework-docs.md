@@ -2,6 +2,12 @@
 - Mostly Database management properties can be found here
 - Explored Definitions of the following Classes
 	- Database #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2024-04-27T16:29:18.080Z
+	  card-last-reviewed:: 2024-04-23T16:29:18.080Z
+	  card-last-score:: 5
 		- Database to manage actual database such as connections, creating, etc.
 		- Formal Definition
 		  | 

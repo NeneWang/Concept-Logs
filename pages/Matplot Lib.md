@@ -2,12 +2,12 @@
 	- Book Guide Table of Contents
 		- https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 	- How to use different figures to scatter plot? #card #matplot
-	  card-last-score:: 3
-	  card-repeats:: 1
-	  card-next-schedule:: 2024-04-14T15:55:32.015Z
+	  card-last-score:: 5
+	  card-repeats:: 2
+	  card-next-schedule:: 2024-04-27T16:32:03.205Z
 	  card-last-interval:: 4
-	  card-ease-factor:: 2.36
-	  card-last-reviewed:: 2024-04-10T15:55:32.019Z
+	  card-ease-factor:: 2.46
+	  card-last-reviewed:: 2024-04-23T16:32:03.205Z
 	  collapsed:: true
 		- As the {{cloze third parameter}} in a plt plot
 		- ![image.png](../assets/image_1712764189448_0.png)
@@ -22,19 +22,19 @@
 - ## Scatter Plotting
 	- What does `describe()` do? #card #pandas
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-04-15T17:18:41.156Z
-	  card-last-reviewed:: 2024-04-11T17:18:41.159Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-27T16:32:09.701Z
+	  card-last-reviewed:: 2024-04-23T16:32:09.701Z
 	  card-last-score:: 5
 	  collapsed:: true
 		- It describe mean, etc statistics
 	- Aside from the different features available in `plt.plot` and `plt.scatter`, why might you choose to use one over the other? #card #matplot
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-04-15T17:18:59.489Z
-	  card-last-reviewed:: 2024-04-11T17:18:59.489Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-27T16:32:32.648Z
+	  card-last-reviewed:: 2024-04-23T16:32:32.649Z
 	  card-last-score:: 5
 	  collapsed:: true
 		- `plt.plot` should be preferred over `plt.scatter` for large datasets.
@@ -43,10 +43,10 @@
   collapsed:: true
 	- How to create legends like the following: #card #legends ![image.png](../assets/image_1712765417139_0.png)
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-04-15T17:19:15.042Z
-	  card-last-reviewed:: 2024-04-11T17:19:15.042Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-27T16:33:02.643Z
+	  card-last-reviewed:: 2024-04-23T16:33:02.644Z
 	  card-last-score:: 5
 	  collapsed:: true
 		- {{cloze ax.plot(x, np.sin(x), '-b', label='Sine')
@@ -61,10 +61,10 @@
 		  ```
 	- How to move the legend to the upper left? #card #legends ![image.png](../assets/image_1712765720396_0.png)
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2024-04-15T17:19:23.073Z
-	  card-last-reviewed:: 2024-04-11T17:19:23.074Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2024-04-27T16:33:10.725Z
+	  card-last-reviewed:: 2024-04-23T16:33:10.725Z
 	  card-last-score:: 5
 	  collapsed:: true
 		- ```python
