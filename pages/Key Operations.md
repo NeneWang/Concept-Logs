@@ -21,6 +21,8 @@
 	  |--|--|
 	  |Looking forward for Habits.|Consider the daily habits as something you will be grateful to have. An opportunity daily to enjoy reading a page more of content.|
 	  |Use your Calendar|If you have an specific meeting-like event prepare the alarm one day before|
+	  |Capstone your Learning|Unless you have built a project that is on your github with a nice readme and link from interviewer point of view about that concept or at least a public blog in one of it's niche subjects or your research on the topic.|
+	-
 - Key Links
 	- Projects to work on.
 - Key Habits [Recall one key habit] #card
