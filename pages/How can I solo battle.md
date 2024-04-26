@@ -1,0 +1,12 @@
+- An Intro inspection
+	- No battle can be won alone. Having a network of people is important.
+	- Having 'brothers in arms' increases your chance of batling.
+- Now the questions are:
+	- How to take initiative into finding motivated people to work with.
+		- Perhaps finding when entering a company?
+		- Perhaps building relationships on the last semester of college? _ Armando etc
+		- You cant be too open in this. If you don't really know him don't extend the hand like that.
+			- You will find people who have not those values and drive and willing to into them.
+	-
+		-
+		-

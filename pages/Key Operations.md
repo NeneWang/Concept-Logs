@@ -19,9 +19,10 @@
 - Key Behavioral Heuristics Decisions/Habits [Explain 1 Philosophy] #card
 	- |Philosophy|Description|
 	  |--|--|
-	  |Looking forward for Habits.|Consider the daily habits as something you will be grateful to have. An opportunity daily to enjoy reading a page more of content.|
+	  |Looking forward for Small Opportunities.|Consider the daily habits as something you will be grateful to have. An opportunity daily to enjoy reading a page more of content.|
 	  |Use your Calendar|If you have an specific meeting-like event prepare the alarm one day before|
 	  |Capstone your Learning|Unless you have built a project that is on your github with a nice readme and link from interviewer point of view about that concept or at least a public blog in one of it's niche subjects or your research on the topic.|
+	  |||
 	-
 - Key Links
 	- Projects to work on.
@@ -33,4 +34,7 @@
 	  |Practice Leetcode Daily|It doesn't matter if it is LC Daily or something you just wanna do. [:br]Also Document the Pseudocode in Anki.[:br]Run Anki on a "Night Creation Block" to get started. Then Proceed to run Projects|2|
 	  |Read Chinese Daily|Read some chinese books on tthe daily. On the Train, do your ankies dues.|1|
 	  |Predesigned Saturday dates|Pre-prepare for saturday dates. Have something to prepare for the What to do|1|
-- Decommissioned Habits
+- Decommissioned Habits - Experimental [Mention an experimental Habit you are testing out] #card
+	- |Description|Status|
+	  |--|--|
+	  |Test if by curating a playlist of leetcode problems, and then going to try to solve them makes sense.|EXPERIEMENTAL|
