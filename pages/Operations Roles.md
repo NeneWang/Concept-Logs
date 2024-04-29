@@ -35,4 +35,6 @@
 	- Understand the business objectives and how to make their life easier
 - Projects to build yourself:
 	- Build pipelines for Data, Documentation, etc. from games.
+	- ![image.png](../assets/image_1714427804224_0.png)
+	-
 	-
