@@ -11,8 +11,9 @@
 - How it relates to my position
 - Tell us A little about yoruself.
 	- Focus more in passion and aptitude, the right mindset and the wanting to sell.
-- Applications
+- Applications for Entry Level
 	- Look at the job description | Will should have prepared and having genuine curiosity.
 	- Follow ups! Having Following Up Emails
-	-
+	- If you get well with your team, because you will spend a lot of time with them. Culture fit.
+	- Less about the skills but also the resourcefulness, why you entrust the role?
 -
