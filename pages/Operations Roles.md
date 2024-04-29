@@ -17,4 +17,6 @@
 	- If you get well with your team, because you will spend a lot of time with them. Culture fit.
 	- Less about the skills but also the resourcefulness, why you entrust the role?
 - What does a typical day look like for each of you?
-	- A workstream and the program meeting where you are directly on flight.
+	- A workstream and the program meeting where you are directly on flight.  Balance Tactical and Strategic work. Get things done.
+	- **Tactical Work** Willingness to roll up your sleeves.
+	-
