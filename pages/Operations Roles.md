@@ -6,5 +6,8 @@
 - Searching for Jobs Filters
 	- Search for Entry  + Operation
 	- Analytics of a businesses | Analyst in the role.
-		- Coordinator
+		- Coordinator | Analyst | Associates -> Entry Positions.
+		- Creating systems or refining systems that already exists. Analytics.
+- How it relates to my position
+	-
 -
