@@ -16,4 +16,5 @@
 	- Follow ups! Having Following Up Emails
 	- If you get well with your team, because you will spend a lot of time with them. Culture fit.
 	- Less about the skills but also the resourcefulness, why you entrust the role?
--
+- What does a typical day look like for each of you?
+	- A workstream and the program meeting where you are directly on flight.
