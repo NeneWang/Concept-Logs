@@ -38,6 +38,7 @@
 	- ![image.png](../assets/image_1714427804224_0.png)
 	- ![image.png](../assets/image_1714427839028_0.png)
 	- Jerry Limber
-		- Use cases for AI and entry level of interview. Study uses of AI, and
+		- Use cases for AI and entry level of interview. Study uses of AI, and how they can be implemented in the job position of the AI. Show up with answers.
+		- Doing research about latest technologies and seeying or asking how they could use
 -
 	-
