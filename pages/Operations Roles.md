@@ -22,4 +22,8 @@
 	- **Tactical Work** Willingness to roll up your sleeves.
 	- If a client asks for it, is whatever is there. Naturally and operational roles
 	- For job searching process ask: What are the keworks
+- Role
+	- Help your boss life, trying to find solutions and present something back up.
+	- Making life easier for others.
+	- Accurate views. High counts. Higher co
 	-
