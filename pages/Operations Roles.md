@@ -1,2 +1,6 @@
 - Make sure that the ship runs.
 	- Show up on day one and there are
+	- Specific Entry level roles. Suggestion would be
+	- Research and find skillset if it matches with what you do.
+	- Identify an industry in which
+	-
