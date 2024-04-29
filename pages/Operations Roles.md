@@ -36,5 +36,8 @@
 - Projects to build yourself:
 	- Build pipelines for Data, Documentation, etc. from games.
 	- ![image.png](../assets/image_1714427804224_0.png)
-	-
+	- ![image.png](../assets/image_1714427839028_0.png)
+	- Jerry Limber
+		- Use cases for AI and entry level of interview. Study uses of AI, and
+-
 	-
