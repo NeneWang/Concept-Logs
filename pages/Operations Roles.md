@@ -39,6 +39,10 @@
 	- ![image.png](../assets/image_1714427839028_0.png)
 	- Jerry Limber
 		- Use cases for AI and entry level of interview. Study uses of AI, and how they can be implemented in the job position of the AI. Show up with answers.
-		- Doing research about latest technologies and seeying or asking how they could use
+		- Doing research about latest technologies and seeying or asking how they could use AI and research to how to improve things.
+			- Instead of can you rerfer me?
+				- Why? I am interestered, because of X, I found that you are using X
+				- Search
+				- How to use new coming technology (AI)  To improve operations.
 -
 	-
