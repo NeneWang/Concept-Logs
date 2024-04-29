@@ -20,3 +20,4 @@
 	- A workstream and the program meeting where you are directly on flight.  Balance Tactical and Strategic work. Get things done.
 	- **Tactical Work** Willingness to roll up your sleeves.
 	- If a client asks for it, is whatever is there. Naturally and operational roles
+	- For job searching process ask: What are the keworks
