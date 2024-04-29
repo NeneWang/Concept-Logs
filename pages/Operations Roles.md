@@ -25,5 +25,5 @@
 - Role
 	- Help your boss life, trying to find solutions and present something back up.
 	- Making life easier for others.
-	- Accurate views. High counts. Higher co
+	- Accurate views. High counts. Statuses of people leaving and pieces of information and complaining on this in meetings and taking it to figure yourself and automated exports to build dashboards that automatically updates the systems to make sense for people
 	-
