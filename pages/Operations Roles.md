@@ -44,5 +44,6 @@
 				- Why? I am interestered, because of X, I found that you are using X
 				- Search and the positions available online at the website.
 				- How to use new coming technology (AI)  To improve operations.
+			- Go to places where it is asking how things are chanigng.
 -
 	-
