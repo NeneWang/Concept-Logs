@@ -28,5 +28,5 @@
 	- Accurate views. High counts. Statuses of people leaving and pieces of information and complaining on this in meetings and taking it to figure yourself and automated exports to build dashboards that automatically updates the systems to make sense for people.
 	- Results of doing that over and over.
 - Carla Agnite
-	-
+	- Mind blogging to have on the cloud. Making something more efficient than sending an excel back and forth.
 	-
