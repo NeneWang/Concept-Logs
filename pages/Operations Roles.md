@@ -3,4 +3,8 @@
 	- Specific Entry level roles. Suggestion would be
 	- Research and find skillset if it matches with what you do.
 	- Identify an industry in which
-	-
+- Searching for Jobs Filters
+	- Search for Entry  + Operation
+	- Analytics of a businesses | Analyst in the role.
+		- Coordinator
+-
