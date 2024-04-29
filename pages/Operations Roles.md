@@ -1,0 +1,2 @@
+- Make sure that the ship runs.
+	- Show up on day one and there are
