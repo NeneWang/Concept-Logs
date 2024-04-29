@@ -32,5 +32,7 @@
 	- Mind blogging to have on the cloud. Making something more efficient than sending an excel back and forth.
 - Rebeecca McPhail
 	- What is useful for them?
-	- Understand the business objectives and how to make their life easier/
+	- Understand the business objectives and how to make their life easier
+- Projects to build yourself:
+	- Build pipelines for Data, Documentation, etc. from games.
 	-
