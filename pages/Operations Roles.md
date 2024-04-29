@@ -9,5 +9,6 @@
 		- Coordinator | Analyst | Associates -> Entry Positions.
 		- Creating systems or refining systems that already exists. Analytics.
 - How it relates to my position
-	-
+- Tell us A little about yoruself.
+	- Focus more in passion and aptitude, the right mindset and the wanting to sell.
 -
