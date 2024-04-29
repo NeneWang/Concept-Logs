@@ -11,4 +11,8 @@
 - How it relates to my position
 - Tell us A little about yoruself.
 	- Focus more in passion and aptitude, the right mindset and the wanting to sell.
+- Applications
+	- Look at the job description | Will should have prepared and having genuine curiosity.
+	- Follow ups! Having Following Up Emails
+	-
 -
