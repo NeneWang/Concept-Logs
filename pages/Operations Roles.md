@@ -42,7 +42,7 @@
 		- Doing research about latest technologies and seeying or asking how they could use AI and research to how to improve things.
 			- Instead of can you rerfer me?
 				- Why? I am interestered, because of X, I found that you are using X
-				- Search
+				- Search and the positions available online at the website.
 				- How to use new coming technology (AI)  To improve operations.
 -
 	-
