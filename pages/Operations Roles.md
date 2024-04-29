@@ -11,6 +11,7 @@
 - How it relates to my position
 - Tell us A little about yoruself.
 	- Focus more in passion and aptitude, the right mindset and the wanting to sell.
+	- You should be Proactive, Problem Solving, Innovation, Organization.
 - Applications for Entry Level
 	- Look at the job description | Will should have prepared and having genuine curiosity.
 	- Follow ups! Having Following Up Emails
@@ -29,4 +30,7 @@
 	- Results of doing that over and over.
 - Carla Agnite
 	- Mind blogging to have on the cloud. Making something more efficient than sending an excel back and forth.
+- Rebeecca McPhail
+	- What is useful for them?
+	- Understand the business objectives and how to make their life easier/
 	-
