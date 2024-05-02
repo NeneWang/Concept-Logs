@@ -1,2 +1,2 @@
-- Keep an habit of maintaining Pseudocode on parallel to development.
+- Keep an habit of maintaining Pseudocode on parallel to development. Having something like Obsidian makes sense when it
 -
