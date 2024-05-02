@@ -3,6 +3,7 @@
 	- Here are mainly self researched and indexed insights that I am applying to my life. Core tactics. The comparison against documentation is that documentation tries to find all strategies, but here are the concepts and guides with more value meaning.
 - Pages
 	- [[A Subjective Research Approach]]
+	- [[Craftmanship]]
 	- [[Core-Checklist]]
 	- [[Corporate Skills]]
 	- [[Philosophy]]
