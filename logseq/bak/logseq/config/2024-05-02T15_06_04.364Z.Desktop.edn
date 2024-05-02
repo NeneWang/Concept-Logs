@@ -299,11 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
-<<<<<<< HEAD
- :favorites ["algorithms" "data science"]
-=======
- :favorites ["documentation" "algorithms" "data science"]
->>>>>>> f542c99 (Auto saved by Logseq)
+ :favorites ["documentation" "key operations" "guides" "algorithms" "data science"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -422,4 +418,5 @@
  ;;   - :triple-lowbar (default)
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
- :file/name-format :triple-lowbar}
+ :file/name-format :triple-lowbar
+ :graph/settings {:journal? false}}

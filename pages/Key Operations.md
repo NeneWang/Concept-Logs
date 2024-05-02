@@ -7,7 +7,7 @@
   card-last-score:: 5
 	- |Decision|Description|
 	  |--|--|
-	  |Key [[documentation]] using Trello Mainly as main Task Indexer|Also add Logseq for personal documentation but the Trello Board for organizing tasks.|
+	  |Key [[Documentation]] using Trello Mainly as main Task Indexer|Also add Logseq for personal documentation but the Trello Board for organizing tasks.|
 	  | God of Creation nice habit.|Is a nice nocturnal habit where you must be "Creating" daily.|
 	  |Document 25-5s in Video.|Use the video recorder to record 25-5s|
 	  |Use Logseq for Personal Documentation|Is about organizing documentaiton in a way you are happy to continue editing them.|
