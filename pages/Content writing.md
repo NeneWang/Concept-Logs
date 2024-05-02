@@ -1,0 +1,3 @@
+- This is an advice that other books share, which is the idea of content writting)
+	- (I thought originally
+	- The idea is to produce something you will also be reviewing and solidifying things.
