@@ -1,2 +1,2 @@
-- From the algorithmic class till now.
+- Keep an habit of maintaining Pseudocode on parallel to development..
 -
