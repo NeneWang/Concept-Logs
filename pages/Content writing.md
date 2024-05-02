@@ -6,6 +6,7 @@
 			- Reason: This is intended to be paired with your resume -> As it shows some of mini projects that focuses on CS. I can also leave some assigments in other topics. (Such as engineering, if I have assigments to show, or a collection of small projects) -> Scientific Research skills are harder to show (like what did you do?)
 		- Concept Logs: Logseq -> This is intended to be a place where I revise and record different concepts such as algorithms, documentation,, etc
 			- They are rough, but shaped through time.
+		- Obsidian -> To be thrown documentation. Pseudocode, Devleopment nOtes, bugs and issues.
 		-
 		-
 		-
