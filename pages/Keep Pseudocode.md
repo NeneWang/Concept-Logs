@@ -1,2 +1,2 @@
-- Keep an habit of maintaining Pseudocode on parallel to development..
+- Keep an habit of maintaining Pseudocode on parallel to development.
 -
