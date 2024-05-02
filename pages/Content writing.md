@@ -2,4 +2,5 @@
 	- (I thought originally
 	- The idea is to produce something you will also be reviewing and solidifying things.
 	- At the moment I am consistently producing three kinds of documentaitons:
+		- Jupyter Book Notes: For assignments, Data Science Explorations, Computer Science Topics.
 		-
