@@ -7,7 +7,7 @@
 	- Create Small happiness
 		- Use your life to build a long term legacy to contribute to some else's small happiness for future members.
 - Take Initiative into Scalability.
-	- [[How can I solo battle]]
+	- [[Moving]]
 	-
 - Actionables
 	- Thank everyday the gods for the opportunity to create
