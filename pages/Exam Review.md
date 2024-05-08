@@ -13,6 +13,6 @@
 - Were the human species reproductively compatible? #card
 	- Yes, they produced hybrids
 	- If neantherlands and homosapiens reproduceted
-		- Archaic are produced from Nendertals and Erectus
+		- Archaic are produced from Neanderthals and Erectus
 	- It would be a archaic Homo sapiens.
 	- ![image.png](../assets/image_1715170767353_0.png)
