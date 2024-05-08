@@ -12,3 +12,5 @@
 	- ![image.png](../assets/image_1715170316587_0.png)
 - Were the human species reproductively compatible? #card
 	- Yes, they produced hybrids
+	- If neantherlands and homosapiens reproduceted
+	- It would be a archaic neanthertal.
