@@ -15,10 +15,13 @@
 		- Archaic are produced from Neanderthals and Homosapiens
 	- It would be a archaic Homo sapiens.
 	- ![image.png](../assets/image_1715170767353_0.png)
-- What Makes the Mauler Mandible Unique>
+- What Makes the Mauler Mandible Unique #card
 	- ![image.png](../assets/image_1715171001721_0.png)
 - What makes the Bodo Cranium Unique?
 	- ![image.png](../assets/image_1715171092611_0.png)
-- Whats the point of Ritual Burial?
+- What's the point of Ritual Burial? #card
 	- Religion
+	- ![image.png](../assets/image_1715171247149_0.png)
+	- They had dreams about people who were dead.
+	- Opened the idea that
 	-
