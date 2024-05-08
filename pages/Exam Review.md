@@ -17,4 +17,7 @@
 	- ![image.png](../assets/image_1715170767353_0.png)
 - What Makes the Mauler Mandible Unique>
 	- ![image.png](../assets/image_1715171001721_0.png)
+- What makes the Bodo Cranium Unique?
+	- ![image.png](../assets/image_1715171092611_0.png)
+-
 	-
