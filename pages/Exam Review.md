@@ -55,7 +55,7 @@
 - Shanidar 1
 	- ![image.png](../assets/image_1715173211145_0.png)
 - What is the term that descrives when they evolve together?
-	- Adaptive Radiation.
+	- Adaptive Radiation. Sex with Neanderthalhave those DNAs, roughly 2% to their Neanderthals ancestors
 	- ![image.png](../assets/image_1715173591472_0.png)
 	-
 	-
