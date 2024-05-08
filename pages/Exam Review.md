@@ -27,5 +27,5 @@
 - ![image.png](../assets/image_1715171388951_0.png)
 - Who was Shanidar 1? What doe sit mean? #card
 	- ![image.png](../assets/image_1715171413728_0.png)
-	- He probably had uncared by their own kind
+	- He probably had taken cared of by their own kind
 -
