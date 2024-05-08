@@ -20,5 +20,5 @@
 - What makes the Bodo Cranium Unique?
 	- ![image.png](../assets/image_1715171092611_0.png)
 - Whats the point of Ritual Burial?
-	-
+	- Religion
 	-
