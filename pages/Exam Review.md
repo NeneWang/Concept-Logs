@@ -1,1 +1,5 @@
-- What is the correct order of the Human Lineage
+- What is the correct order of the Human Lineage? #card
+	- ![image.png](../assets/image_1715170106833_0.png)
+	- Australopithecus -> Homo Habilis
+	- Homo Neanderthalansis
+	- Homo Sapiens
