@@ -2,6 +2,8 @@
 	- interviewing
 		- [[STAR METHOD]]
 		- [[Operations Roles]]
+		- [[networking]]
+		-
 		-
 - Actionables
 	- Before Interviewing:

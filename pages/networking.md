@@ -1,0 +1,16 @@
+- `70%` of new jobs are not published
+- `40%` of recomendations gets hired. WHhle they are `5%` of candidates
+- You should try to connect more with (try to impress):
+	- Manager, Professors.
+		- They have a larger poll.
+			- They have more access to power
+			- With age and experience they have broader and more diverse networks.
+		- How do you connect more with them?
+			- What automatic systems can you implement?
+		- Create informational interviews. Where you and an employed professional knows about what they do.
+		- Offering Oppporuntities
+			- We are organizing a competition event about X, I thought you might be interested in finding professionals. Is free.
+			- Resolving Results
+		- Perhaps ask for advice:
+			- What books or projects you recommend?
+			- If they have the same problems as you
