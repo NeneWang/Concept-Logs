@@ -25,6 +25,7 @@
 	- They had dreams about people who were dead.
 	- Opened the idea that they might be somewhere else?
 - ![image.png](../assets/image_1715171388951_0.png)
-- Who was Shanidar 1? #card
+- Who was Shanidar 1? What doe sit mean? #card
 	- ![image.png](../assets/image_1715171413728_0.png)
-	- He probably had uncared
+	- He probably had uncared by their own kind
+-
