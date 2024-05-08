@@ -24,6 +24,7 @@
 	- ![image.png](../assets/image_1715171247149_0.png)
 	- They had dreams about people who were dead.
 	- Opened the idea that they might be somewhere else?
+-
 - ![image.png](../assets/image_1715171388951_0.png)
 - Who was Shanidar 1? What doe sit mean? #card
 	- ![image.png](../assets/image_1715171413728_0.png)
@@ -37,6 +38,6 @@
 	- ![image.png](../assets/image_1715172205684_0.png)
 - -
 	- ![image.png](../assets/image_1715172389812_0.png)
-- Mention key points that distinguish Neanderthal anatomy
+- Mention key points that distinguish Neanderthal anatomy #card
 	- Large Brain cases
 	- ![image.png](../assets/image_1715172503119_0.png)
