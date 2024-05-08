@@ -28,4 +28,6 @@
 - Who was Shanidar 1? What doe sit mean? #card
 	- ![image.png](../assets/image_1715171413728_0.png)
 	- He probably had taken cared of by their own kind
+	- The broken bones had to feed him and take care of him.
+	- ![image.png](../assets/image_1715171751686_0.png)
 -
