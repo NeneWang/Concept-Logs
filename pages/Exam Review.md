@@ -23,5 +23,6 @@
 	- Religion
 	- ![image.png](../assets/image_1715171247149_0.png)
 	- They had dreams about people who were dead.
-	- Opened the idea that
+	- Opened the idea that they might be somewhere else?
+-
 	-
