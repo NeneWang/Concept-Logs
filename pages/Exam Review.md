@@ -52,4 +52,6 @@
 - Neandertals Burials, Hunting and
 	- ![image.png](../assets/image_1715173081833_0.png)
 	- ![image.png](../assets/image_1715173130532_0.png)
--
+- Shanidar 1
+	- ![image.png](../assets/image_1715173211145_0.png)
+	-
