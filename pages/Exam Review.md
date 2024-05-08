@@ -38,5 +38,5 @@
 - -
 	- ![image.png](../assets/image_1715172389812_0.png)
 - Mention key points that distinguish Neanderthal anatomy
-	-
+	- Large Brain cases
 	- ![image.png](../assets/image_1715172503119_0.png)
