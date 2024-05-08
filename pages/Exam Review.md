@@ -24,5 +24,7 @@
 	- ![image.png](../assets/image_1715171247149_0.png)
 	- They had dreams about people who were dead.
 	- Opened the idea that they might be somewhere else?
--
+- ![image.png](../assets/image_1715171388951_0.png)
+- Who was Shanidar 1? #card
+	- ![image.png](../assets/image_1715171413728_0.png)
 	-
