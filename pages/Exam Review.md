@@ -8,6 +8,6 @@
 	- It signified tools and properties
 - What characterizes Homo Erectus? #card
 	- They were very tall, lived chasing
-	- Had standarized tools: Clivers, Axes in mind had standard tools replicated
+	- Had standardized tools: Clivers, Axes in mind had standard tools replicated
 	- ![image.png](../assets/image_1715170316587_0.png)
 -
