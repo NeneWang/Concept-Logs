@@ -31,4 +31,6 @@
 	- The broken bones had to feed him and take care of him. Group had to compensate,
 	- They didnt leave him behind
 	- ![image.png](../assets/image_1715171751686_0.png)
-- Old men, might need help for eating.
+- Whats the main ada
+	- ![image.png](../assets/image_1715172060291_0.png)
+	-
