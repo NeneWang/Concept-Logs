@@ -54,5 +54,6 @@
 	- ![image.png](../assets/image_1715173130532_0.png)
 - Shanidar 1
 	- ![image.png](../assets/image_1715173211145_0.png)
+	- With Bipadalism: shows that can help his people.
 	-
 	-
