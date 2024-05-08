@@ -40,10 +40,12 @@
 	- ![image.png](../assets/image_1715172389812_0.png)
 - Mention key points that distinguish Neanderthal anatomy #card
 	- Large Brain cases
+	- Mid face projection
+	- S
 	- ![image.png](../assets/image_1715172503119_0.png)
 - Why nendertals had prognatic faces and large noses? #card
 	- ![image.png](../assets/image_1715172774228_0.png)
 	- Allows more space to warm he air that reaches the respiratory system
 - The bones are robust
 	- ![image.png](../assets/image_1715172892432_0.png)
-	-
+-
