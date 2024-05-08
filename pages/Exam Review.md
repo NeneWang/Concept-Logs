@@ -15,5 +15,6 @@
 		- Archaic are produced from Neanderthals and Homosapiens
 	- It would be a archaic Homo sapiens.
 	- ![image.png](../assets/image_1715170767353_0.png)
-- What ,ales Arcjaoc Jp,ps Sa[oems
-	- ]
+- What Makes the Mauler Mandible Unique>
+	- ![image.png](../assets/image_1715171001721_0.png)
+	-
