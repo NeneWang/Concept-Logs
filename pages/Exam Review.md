@@ -27,4 +27,4 @@
 - ![image.png](../assets/image_1715171388951_0.png)
 - Who was Shanidar 1? #card
 	- ![image.png](../assets/image_1715171413728_0.png)
-	-
+	- He probably had uncared =>
