@@ -3,4 +3,8 @@
 	- Australopithecus -> Homo Habilis
 	- Homo Neanderthalansis
 	- Homo Sapiens
-- What olden ones tools signify?
+- What olden ones tools signify? #card
+	- ![image.png](../assets/image_1715170223659_0.png)
+	- It signified tools and properties
+- What characterizes Homo Erectus? #card
+	- They were very tall, lim
