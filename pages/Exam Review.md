@@ -54,7 +54,8 @@
 	- ![image.png](../assets/image_1715173130532_0.png)
 - Shanidar 1
 	- ![image.png](../assets/image_1715173211145_0.png)
-	- With Bipadalism: shows that can help his people.
+- What is the term that descrives when they evolve together?
+	- Adaptive Radiation.
 	- ![image.png](../assets/image_1715173591472_0.png)
 	-
 	-
