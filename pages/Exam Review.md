@@ -43,6 +43,7 @@
 	- Mid face projection
 	- Spoonshap recisors
 	- Robust quality of the bone.
+	- Ribcage
 	- ![image.png](../assets/image_1715172503119_0.png)
 - Why nendertals had prognatic faces and large noses? #card
 	- ![image.png](../assets/image_1715172774228_0.png)
@@ -59,5 +60,6 @@
 	- ![image.png](../assets/image_1715173591472_0.png)
 	- Where you have Neanderthals you also have depression and addiction.
 		- Might provide some sort of resiliance?
-- What are the 4 keypoints
+- What are the 4 key points
+	-
 	-
