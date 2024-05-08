@@ -49,4 +49,6 @@
 	- Allows more space to warm he air that reaches the respiratory system
 - The bones are robust
 	- ![image.png](../assets/image_1715172892432_0.png)
--
+- Neandertals Burials
+	- ![image.png](../assets/image_1715173081833_0.png)
+	-
