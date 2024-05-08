@@ -33,4 +33,6 @@
 	- ![image.png](../assets/image_1715171751686_0.png)
 - What's the main adaptation of Neandertals? #card
 	- ![image.png](../assets/image_1715172060291_0.png)
-- Is there a link between
+- Is there a link between on-human privates and primates?
+	- ![image.png](../assets/image_1715172205684_0.png)
+-
