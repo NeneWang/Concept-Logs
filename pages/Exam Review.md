@@ -54,8 +54,10 @@
 	- ![image.png](../assets/image_1715173130532_0.png)
 - Shanidar 1
 	- ![image.png](../assets/image_1715173211145_0.png)
-- What is the term that descrives when they evolve together?
+- What is the term that descrives when they evolve together? #card
 	- Adaptive Radiation. Sex with Neanderthals have those DNAs, roughly 2% to their Neanderthals ancestors
 	- ![image.png](../assets/image_1715173591472_0.png)
-	- Where you have
-		-
+	- Where you have Neanderthals you also have depression and addiction.
+		- Might provide some sort of resiliance?
+- What are the 4 keypoints
+	-
