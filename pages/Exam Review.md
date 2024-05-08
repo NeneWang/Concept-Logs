@@ -10,4 +10,5 @@
 	- They were very tall, lived chasing
 	- Had standardized tools: Clivers, Axes in mind had standard tools replicated
 	- ![image.png](../assets/image_1715170316587_0.png)
--
+- Were thehuman species reproductively compatible? #card
+	- Yes, they produced hybrids
