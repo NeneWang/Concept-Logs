@@ -1,3 +1,4 @@
 - ![image.png](../assets/image_1715440153151_0.png)
 - > Improv helps you prepare for
+- Adaptability, Confident Communication, Creative Thinking.
 -
