@@ -2,6 +2,7 @@
 	- interviewing
 		- [[STAR METHOD]]
 		- [[Operations Roles]]
+		- [[Basta]]
 		-
 - Actionables
 	- Before Interviewing:
