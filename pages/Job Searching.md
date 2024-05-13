@@ -10,7 +10,11 @@
 			- Personalizing Resume to pass the robot grader.
 	- Developing Job Searching Software
 		- Practicing Introducing yourself!
-		- Practicing
+		- Keeping track of applications
+		- Keeping an eye of networking events
+			- Hackathons
+			- Tech Presentations for Startup events
+		- Keeping track of people you meet and sending research networking.
 	- ![image.png](../assets/image_1715637131372_0.png)
 		-
 		-
