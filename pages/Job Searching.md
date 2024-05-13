@@ -13,6 +13,8 @@
 			- Use LinkedIn Premium to talk with the recruiter
 				- Hi I usually have a x, x my passtime is creating open source projects such as X with x amount of things
 				- The easiest way to connect is: Are you willing to network with me?
+			- Make the thing one paragraph: a project that is resalted to it. make it concise
+			-
 	- Developing Job Searching Software
 		- Practicing Introducing yourself!
 		- Keeping track of applications
