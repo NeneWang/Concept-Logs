@@ -14,20 +14,23 @@
 	- Energy Capita
 		- Time Management, Focus on your work from 1 to 0.
 		- Strong downtime habits Being able to take advantage of each second.
-		- Focused Mind in "Up Time"
-		- Automate Uptime and top performance.
+			- Focused Mind in "Up Time"
+			- Automate Uptime and top performance.
 		- Healthy Body
 			- Sleep right
-			- Go to gym
+			- Go to gym, go running
 		- Play the psychology effect of strong and big -> respectable, employable
 	- Knowledge Capita
 		- Being Research level educated
 			- Being able to read through top AI Research. (That's my objective here)
 			- Being able to spin off products
-		- Proof of knowledge by building
+		- Proof of knowledge by building Portfolio Projects
 			- Have experience building all the crazy ideas with optimizations!
-			-
+			- Practical Knowledge > That you have personal experience over random theory
 		- Create Automata researchers for places where to find opportunities to make money.
+			- Auto researchers
+			- Auto documenters
+			- Auto github and
 	- Social Capita
 		- Building strong relationships
 		- Skillful in words. Making others feel happy surrounding you.
