@@ -23,6 +23,10 @@
 		- Healthy Body
 			- Sleep right
 			- Go to gym, go running
+		- Willful mind
+			- How to make a mind that is not depressive? Remove the bad sources.
+			- Automate good messages and motivation (can be fury)
+			-
 		- Play the psychology effect of strong and big -> respectable, employable
 	- Knowledge Capita
 		- Being Research level educated
