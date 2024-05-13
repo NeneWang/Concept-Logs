@@ -24,6 +24,8 @@
 		- refer me .com is somewhere
 		- There is also a mentors thing around
 	- Expanding network.
+		- Talk with people on free events.
+		- Just send the message, either way is a win win.
 		-
 		-
 		-
