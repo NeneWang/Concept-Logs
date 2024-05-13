@@ -8,7 +8,11 @@
 		- [[Introducing Yourself]]
 		- [[Submitting personalized]]
 			- Personalizing Resume to pass the robot grader.
-			-
+			- Apply as fast as possible, jobs that had been opening for a long time are not worth it.
+			- Not worth it >200
+			- Use LinkedIn Premium to talk with the recruiter
+				- Hi I usually have a x, x my passtime is creating open source projects such as X with x amount of things
+				-
 	- Developing Job Searching Software
 		- Practicing Introducing yourself!
 		- Keeping track of applications
