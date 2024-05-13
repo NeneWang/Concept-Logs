@@ -11,14 +11,14 @@
 - Become Dangerous.
 	- You should be dangerous enough so you can start companies
 	- It's easier to start a business than finding jobs nowadays. One is time wasting, doesn't stack. while building your own business does.
+	- Energy Capita
+		- Time Management
+		- Building People Around you
 	- Knowledge Capita
 		- Bieng Research level educated
 		- Being able to read through top AI Research. (That's my objective here)
 		- Being able to spin off products
-		- Create
-	- Energy Capita
-		- Time Management
-		- Building People Around you
+		- Create Automata researchers for places where to find opportunities to make money.
 	- Social Capita
 		- Building strong relationships
 		- Being able to build relationships.
