@@ -37,8 +37,13 @@
 			- Auto github and
 	- Social Capita
 		- Building strong relationships
-			- Building
+			- Building relationships through projects and top performance fellowships
+				- Where does talented people find each other?
+			- Where does Startup mentality people meet each other?
+			- Where does social capita people meet each other?
 		- Skillful in words. Making others feel happy surrounding you.
+			- How to make people feel safe and that they can trust you?
+			- Commiting to relationships
 		- It's easier to provide once you have power.
 	-
 	-
