@@ -1,4 +1,5 @@
 - First is Knowledge
-	- Yotubing.
+	- [[Youtuber Knowledge]]
+	-
 - Second is Social
 - Third is Financial
