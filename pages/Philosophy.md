@@ -37,6 +37,7 @@
 			- Auto github and
 	- Social Capita
 		- Building strong relationships
+			- Building
 		- Skillful in words. Making others feel happy surrounding you.
 		- It's easier to provide once you have power.
 	-
