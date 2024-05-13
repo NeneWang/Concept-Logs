@@ -28,7 +28,8 @@
 		- Hide the personal website
 		- Get good at algorithms and data strucutres, get awesome at algorithms
 		- Make an adaptive resume builder.
-			- Make the resume adapt
+			- Make the resume adapt and choose the closest version (pre curated) for that job:
+			- Use: https://roadmap.sh to get the fit to the exact point.
 		- refer me .com is somewhere
 		- There is also a mentors thing around
 	- Expanding network.
