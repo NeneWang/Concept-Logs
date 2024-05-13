@@ -19,7 +19,8 @@
 			- Focused Mind in "Up Time"
 				- No distractions (Mainly YouTube problem)
 				- Focused on work. Humbling distractions
-				- Not releasing and keeping your attention high by silent p
+				- Not releasing and keeping your attention high by silent p*rn videos
+				- 25 -5 that is respected to keep your attention high as well.
 			- Automate Uptime and top performance.
 		- Healthy Body
 			- Sleep right
