@@ -55,6 +55,7 @@
 			- Commiting to relationships. and following up is important
 		- It's easier to provide once you have power.
 			- Trust the piramid, you build energy first => Then you build practical expertise =>
+		-
 	-
 	-
 - Actionables
