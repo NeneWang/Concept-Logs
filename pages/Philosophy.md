@@ -26,6 +26,8 @@
 		- Willful mind
 			- How to make a mind that is not depressive? Remove the bad sources.
 			- Automate good messages and motivation (can be fury)
+			- What are the kind of relationships that are productive? That encourage entrepreneurships? Does being associated with a club or Startup help?
+			- Does being in an office setting help? Does streaming your own work help?
 			-
 		- Play the psychology effect of strong and big -> respectable, employable
 	- Knowledge Capita
