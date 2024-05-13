@@ -8,6 +8,7 @@
 		- [[Introducing Yourself]]
 		- [[Submitting personalized]]
 			- Personalizing Resume to pass the robot grader.
+		-
 	- Developing Job Searching Software
 		- Practicing Introducing yourself!
 		- Keeping track of applications
