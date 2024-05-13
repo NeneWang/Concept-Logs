@@ -13,8 +13,11 @@
 	- It's easier to start a business than finding jobs nowadays. One is time wasting, doesn't stack. while building your own business does.
 	- Energy Capita
 		- Time Management, Focus on your work from 1 to 0.
+			- Trust the process of completing Trello Cards and daily surveys.
 		- Strong downtime habits Being able to take advantage of each second.
 			- Focused Mind in "Up Time"
+				- No distractions (Mainly YouTube problem)
+				- Focused on work
 			- Automate Uptime and top performance.
 		- Healthy Body
 			- Sleep right
