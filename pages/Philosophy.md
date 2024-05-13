@@ -53,9 +53,11 @@
 		- Skillful in words. Making others feel happy surrounding you.
 			- How to make people feel safe and that they can trust you?
 			- Commiting to relationships. and following up is important
+			- For that you need leadership in the sense that you remember them, know what they are looking for
 		- It's easier to provide once you have power.
 			- Trust the piramid, you build energy first => Then you build practical expertise =>
-		-
+		- Expand automated leads:
+			- Find people on LinkedIn that are very active talk with them.
 	-
 	-
 - Actionables
