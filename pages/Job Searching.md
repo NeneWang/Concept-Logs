@@ -3,7 +3,7 @@
 		- [[STAR METHOD]]
 		- [[Operations Roles]]
 		- [[Basta]]
-		- [[Practices]]
+		- [[Refining Behavioural]]
 		- [[Writing Follow up Emails]]
 		- [[Introducing Yourself]]
 		- [[Submitting personalized]]
