@@ -1,4 +1,5 @@
-- First is Spiritual
+-
+- First is Spiritual Energy
 - Second is Practical Knowledge
 	- [[Youtuber Knowledge]]
-- Third is 1
+-
