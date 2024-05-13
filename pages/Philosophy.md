@@ -13,6 +13,8 @@
 	- It's easier to start a business than finding jobs nowadays. One is time wasting, doesn't stack. while building your own business does.
 	- Energy Capita
 		- Time Management
+		- Focused Mind
+		- Healthy Body
 		- Building People Around you
 	- Knowledge Capita
 		- Bieng Research level educated
@@ -21,7 +23,8 @@
 		- Create Automata researchers for places where to find opportunities to make money.
 	- Social Capita
 		- Building strong relationships
-		- Being able to build relationships.
+		- Skillful in words. Making others feel happy surrounding you.
+		- It's easier to provide once you have power.
 	-
 	-
 - Actionables
