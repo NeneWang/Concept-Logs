@@ -21,9 +21,12 @@
 			- Go to gym
 		- Play the psychology effect of strong and big -> respectable, employable
 	- Knowledge Capita
-		- Bieng Research level educated
-		- Being able to read through top AI Research. (That's my objective here)
-		- Being able to spin off products
+		- Being Research level educated
+			- Being able to read through top AI Research. (That's my objective here)
+			- Being able to spin off products
+		- Proof of knowledge by building
+			- Have experience building all the crazy ideas with optimizations!
+			-
 		- Create Automata researchers for places where to find opportunities to make money.
 	- Social Capita
 		- Building strong relationships
