@@ -3,6 +3,8 @@
 		- [[STAR METHOD]]
 		- [[Operations Roles]]
 		- [[Basta]]
+		- [[Practices]]
+		- [[Writing Follow up Emails]]
 		-
 - Actionables
 	- Before Interviewing:
