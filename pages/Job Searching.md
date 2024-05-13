@@ -19,8 +19,12 @@
 	- Software Engineering Specifics Tips
 		- Hide the Graduation Time
 		- Hide the personal website
-		- Get good at algorithms, get awesome at algorithms
+		- Get good at algorithms and data strucutres, get awesome at algorithms
 		- Make an adaptive resume builder.
+		- refer me .com is somewhere
+		- There is also a mentors thing around
+	- Expanding network.
+		-
 		-
 		-
 		-
