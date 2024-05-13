@@ -14,6 +14,7 @@
 	- Energy Capita
 		- Time Management, Focus on your work from 1 to 0.
 			- Trust the process of completing Trello Cards and daily surveys.
+			- Sticking to the project
 		- Strong downtime habits Being able to take advantage of each second.
 			- Focused Mind in "Up Time"
 				- No distractions (Mainly YouTube problem)
