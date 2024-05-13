@@ -14,7 +14,9 @@
 				- Hi I usually have a x, x my passtime is creating open source projects such as X with x amount of things
 				- The easiest way to connect is: Are you willing to network with me?
 			- Make the thing one paragraph: a project that is highlighted from it. make it concise
-			-
+		- Connections
+			- Do you need any research assistants?
+				- Connect with the projects that you worked with
 			-
 	- Developing Job Searching Software
 		- Practicing Introducing yourself!
