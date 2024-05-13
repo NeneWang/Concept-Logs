@@ -8,6 +8,7 @@
 		- [[Introducing Yourself]]
 		- [[Submitting personalized]]
 			- Personalizing Resume to pass the robot grader.
+			-
 	- Developing Job Searching Software
 		- Practicing Introducing yourself!
 		- Keeping track of applications
@@ -26,6 +27,7 @@
 	- Expanding network.
 		- Talk with people on free events.
 		- Just send the message, either way is a win win.
+	-
 		-
 		-
 		-
