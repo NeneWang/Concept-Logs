@@ -8,7 +8,6 @@
 		- [[Introducing Yourself]]
 		- [[Submitting personalized]]
 			- Personalizing Resume to pass the robot grader.
-		-
 	- Developing Job Searching Software
 		- Practicing Introducing yourself!
 		- Keeping track of applications
@@ -20,6 +19,8 @@
 	- Software Engineering Specifics Tips
 		- Hide the Graduation Time
 		- Hide the personal website
+		- Get good at algorithms, get awesome at algorithms
+		- Make an adaptive resume builder.
 		-
 		-
 		-
