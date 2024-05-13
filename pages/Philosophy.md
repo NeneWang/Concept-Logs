@@ -43,7 +43,7 @@
 			- Where does social capita people meet each other?
 		- Skillful in words. Making others feel happy surrounding you.
 			- How to make people feel safe and that they can trust you?
-			- Commiting to relationships
+			- Commiting to relationships.
 		- It's easier to provide once you have power.
 	-
 	-
