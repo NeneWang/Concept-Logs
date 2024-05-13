@@ -8,6 +8,9 @@
 		- Use your life to build a long term legacy to contribute to some else's small happiness for future members.
 - Take Initiative into Scalability.
 	- [[How can I solo battle]]
+- Become Dangerous.
+	- You should be dangerous enough so you can start companies
+	-
 	-
 - Actionables
 	- Thank everyday the gods for the opportunity to create
