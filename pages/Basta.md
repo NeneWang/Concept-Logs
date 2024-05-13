@@ -6,4 +6,8 @@
   What aha moments have you had through BASTA events?
   What aha moments have you had from events and experiences outside of Basta?
 	- College and understanding that career might be longer than the college you are attending.
+- Being more open to career paths
+	- Operations
+	- Business Analytics
+	- You can always grow up in the industries.
 	-
