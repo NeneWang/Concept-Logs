@@ -35,6 +35,8 @@
 			- Auto researchers
 			- Auto documenters
 			- Auto github and
+		- Being a source of mastery
+			-
 	- Social Capita
 		- Building strong relationships
 			- Building relationships through projects and top performance fellowships
