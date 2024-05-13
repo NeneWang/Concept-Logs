@@ -16,7 +16,10 @@
 			- Tech Presentations for Startup events
 		- Keeping track of people you meet and sending research networking.
 			- Keeping track of the Takeaways of the conversations you had
-	-
+	- Software Engineering Specifics Tips
+		- Hide the Graduation Time
+		- Hide the personal website
+		-
 		-
 		-
 - Actionables
