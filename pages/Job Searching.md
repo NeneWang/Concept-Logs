@@ -8,8 +8,11 @@
 		- [[Introducing Yourself]]
 		- [[Submitting personalized]]
 			- Personalizing Resume to pass the robot grader.
-	-
-	-
+	- Developing Job Searching Software
+		- Practicing Introducing yourself!
+		- Practicing
+	- ![image.png](../assets/image_1715637131372_0.png)
+		-
 		-
 - Actionables
 	- Before Interviewing:
