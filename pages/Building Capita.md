@@ -1,5 +1,4 @@
-- First is Knowledge
+- First is Spiritual
+- Second is Practical Knowledge
 	- [[Youtuber Knowledge]]
-	-
-- Second is Social
-- Third is Financial
+- Third is 1

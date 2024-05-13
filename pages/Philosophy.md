@@ -8,7 +8,7 @@
 		- Use your life to build a long term legacy to contribute to some else's small happiness for future members.
 - Take Initiative into Scalability.
 	- [[How can I solo battle]]
-- Become Dangerous.
+- Become Dangerous. by [[Building Capita]]
 	- You should be dangerous enough so you can start companies
 	- It's easier to start a business than finding jobs nowadays. One is time wasting, doesn't stack. while building your own business does.
 	- Energy Capita
