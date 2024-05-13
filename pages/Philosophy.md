@@ -12,10 +12,12 @@
 	- You should be dangerous enough so you can start companies
 	- It's easier to start a business than finding jobs nowadays. One is time wasting, doesn't stack. while building your own business does.
 	- Energy Capita
-		- Time Management
+		- Time Management, Focus on your work from 1 to 0.
 		- Focused Mind
 		- Healthy Body
-		- Building People Around you
+			- Sleep right
+			- Go to gym
+		- Play the psychology effect of cute -> Jobs
 	- Knowledge Capita
 		- Bieng Research level educated
 		- Being able to read through top AI Research. (That's my objective here)
