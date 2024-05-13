@@ -13,11 +13,13 @@
 	- It's easier to start a business than finding jobs nowadays. One is time wasting, doesn't stack. while building your own business does.
 	- Energy Capita
 		- Time Management, Focus on your work from 1 to 0.
-		- Focused Mind
+		- Strong downtime habits Being able to take advantage of each second.
+		- Focused Mind in "Up Time"
+		- Automate Uptime and top performance.
 		- Healthy Body
 			- Sleep right
 			- Go to gym
-		- Play the psychology effect of cute -> Jobs
+		- Play the psychology effect of strong and big -> respectable, employable
 	- Knowledge Capita
 		- Bieng Research level educated
 		- Being able to read through top AI Research. (That's my objective here)
