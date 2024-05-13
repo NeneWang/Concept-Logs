@@ -43,8 +43,9 @@
 			- Where does social capita people meet each other?
 		- Skillful in words. Making others feel happy surrounding you.
 			- How to make people feel safe and that they can trust you?
-			- Commiting to relationships.
+			- Commiting to relationships. and following up is important
 		- It's easier to provide once you have power.
+			- Trust the piramid, you build energy first => Then you build practical expertise =>
 	-
 	-
 - Actionables
