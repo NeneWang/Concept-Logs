@@ -18,7 +18,8 @@
 		- Strong downtime habits Being able to take advantage of each second.
 			- Focused Mind in "Up Time"
 				- No distractions (Mainly YouTube problem)
-				- Focused on work
+				- Focused on work. Humbling distractions
+				- Not releasing and keeping your attention high by silent p
 			- Automate Uptime and top performance.
 		- Healthy Body
 			- Sleep right
