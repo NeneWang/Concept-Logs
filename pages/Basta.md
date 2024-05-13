@@ -10,4 +10,7 @@
 	- Operations
 	- Business Analytics
 	- You can always grow up in the industries.
+- You have more career tools
+	- ![image.png](../assets/image_1715637068556_0.png)
+-
 	-
