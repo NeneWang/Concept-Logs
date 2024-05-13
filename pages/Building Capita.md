@@ -1,5 +1,7 @@
 -
-- First is Spiritual Energy
-- Second is Practical Knowledge
-	- [[Youtuber Knowledge]]
+- Three Foundations
+	- First is Spiritual Energy
+	- Second is Practical Knowledge
+		- [[Youtuber Knowledge]]
+	- Third is Social Expansions
 -
