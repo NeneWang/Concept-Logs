@@ -15,9 +15,12 @@
 				- The easiest way to connect is: Are you willing to network with me?
 			- Make the thing one paragraph: a project that is highlighted from it. make it concise
 			-
+			-
 	- Developing Job Searching Software
 		- Practicing Introducing yourself!
 		- Keeping track of applications
+		- Talk more about passions and things they are interested in
+			- Games in common, anime, build things that are around that to talk with that!
 		- Keeping an eye of networking events
 			- Hackathons
 			- Tech Presentations for Startup events
