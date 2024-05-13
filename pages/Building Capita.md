@@ -1,7 +1,7 @@
 - Rules of Cpaita
 	- Capita has to be automated. Or embedded in one habits
-	- Such as that requires minimal effort to upkeep.
-- Three Foundations
+	- Such as that requires minimal effort to upkeep. such as they can be **accumulated**
+- Three Foundations can be seen from the
 	- First is Spiritual Energy
 	- Second is Practical Knowledge
 		- [[Youtuber Knowledge]]
