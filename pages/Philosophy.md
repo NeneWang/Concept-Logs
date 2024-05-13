@@ -28,7 +28,8 @@
 			- Automate good messages and motivation (can be fury)
 			- What are the kind of relationships that are productive? That encourage entrepreneurships? Does being associated with a club or Startup help?
 			- Does being in an office setting help? Does streaming your own work help?
-			-
+			- Does looking forward to things help?
+			- How to keep the depressive
 		- Play the psychology effect of strong and big -> respectable, employable
 	- Knowledge Capita
 		- Being Research level educated
