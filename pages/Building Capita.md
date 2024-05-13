@@ -1,4 +1,6 @@
--
+- Rules of Cpaita
+	- Capita has to be automated. Or embedded in one habits
+	- Such as that requires minimal effort to upkeep.
 - Three Foundations
 	- First is Spiritual Energy
 	- Second is Practical Knowledge
