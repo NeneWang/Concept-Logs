@@ -10,6 +10,14 @@
 	- [[How can I solo battle]]
 - Become Dangerous.
 	- You should be dangerous enough so you can start companies
+	- Knowledge Capita
+		- Bieng Research level educated
+		- Being able to read through top AI Research. (That's my objective here)
+	- Energy Capita
+		- Time Management
+		- Building People Around you
+	- Social Capita
+		- Building strong relationships
 	-
 	-
 - Actionables
