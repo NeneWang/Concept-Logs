@@ -71,4 +71,8 @@
 	- ![image.png](../assets/image_1715776611352_0.png)
 	- Lemurs example: are solitary, are kicked out after mating.
 	- Monogamy, where the father and mother might have affairs outside but:
+	- If the polygoni is too big, the male will bring more males.
+- ![image.png](../assets/image_1715776898347_0.png)
+	- ![image.png](../assets/image_1715776905656_0.png)
+	-
 -
