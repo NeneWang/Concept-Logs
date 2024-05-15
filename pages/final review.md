@@ -55,5 +55,7 @@
 		- ![image.png](../assets/image_1715776075073_0.png)
 - Under what COnditions are territorties not defended?
 	- Territories are not defended if energitacally doenst make sense
--
+- What are the tree settings in which primates are studied
+	- wild, captivity, and Field Studying
+	-
 -
