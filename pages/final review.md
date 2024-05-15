@@ -103,5 +103,8 @@
 	- Teeth
 		- ![image.png](../assets/image_1715777730371_0.png)
 		- They become more uniforms, and the spaces between teeths go away.
-	-
+	- ![image.png](../assets/image_1715777792222_0.png)
+		- The femur:
+	- What parts of lucy indicates she is a biped?
+		-
 	-
