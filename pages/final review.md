@@ -45,7 +45,6 @@
 	- Tool Use: Chimpanzees make and use tools, such as twigs to extract termites.
 	- Complex Social Behavior: Documented social hierarchies, grooming, and intergroup violence.
 	- Emotional Depth: Observed emotions and distinct personalities in chimpanzees.
-	- Maternal Behavior: Detailed maternal care and its impact on offspring.
 	- Dietary Habits: Chimpanzees have an omnivorous diet, including hunting smaller mammals.
 	- Communication: Identified complex vocalizations, gestures, and facial expressions.
 -
