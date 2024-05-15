@@ -64,5 +64,9 @@
 	- Females' have lower reproductive potential
 	- Estrus is the period of sexual receptivity and fertility in female mammals, often marked by behavioral changes signaling readiness to mate.
 	- Chnages:
-		-
+		- Appearence, smell and behaviours
+	- Male Lemurs:
+		- Exception do not display dominnat behaviours
+- Solitary Group:
+	- ![image.png](../assets/image_1715776611352_0.png)
 -
