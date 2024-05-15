@@ -86,4 +86,5 @@
 	- ![image.png](../assets/image_1715777177838_0.png)
 - ![image.png](../assets/image_1715777268328_0.png)
 	- ![image.png](../assets/image_1715777274318_0.png)
--
+- What are two anatomical traits that are essential for fossils to be considered primates:
+	-
