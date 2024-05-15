@@ -61,5 +61,8 @@
 	- ![image.png](../assets/image_1715776418509_0.png)
 - What is reproductory Asymmetry?
 	- ![image.png](../assets/image_1715776477176_0.png)
-	- Feamles have lower reproductive potential
+	- Females' have lower reproductive potential
+	- Estrus is the period of sexual receptivity and fertility in female mammals, often marked by behavioral changes signaling readiness to mate.
+	- Chnages:
+		-
 -
