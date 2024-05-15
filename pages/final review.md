@@ -79,5 +79,6 @@
 		- ![image.png](../assets/image_1715776954679_0.png)
 - 3 layers of stratigraphy?
 	- ![image.png](../assets/image_1715776981773_0.png)
+	- ![image.png](../assets/image_1715776996264_0.png)
 	-
 -
