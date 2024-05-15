@@ -51,5 +51,7 @@
 	- Means that they dont grow fruits at the same time:
 	- ![image.png](../assets/image_1715775967637_0.png)
 	- makes it more challanging to find the right fruit:
-		-
+		- So the Spider monkeys have to think and memorize: Which makes thems marter with evolutionaruy pressure.
+		- ![image.png](../assets/image_1715776075073_0.png)
+	-
 -
