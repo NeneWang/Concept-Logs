@@ -129,4 +129,7 @@
 		- Whats the dfiiference: ![image.png](../assets/image_1715778266845_0.png)
 			- ![image.png](../assets/image_1715778278797_0.png)
 			-
+		- ![image.png](../assets/image_1715778316693_0.png)
+		- Why the facesprogantic faces? ?
+			- ![image.png](../assets/image_1715778351529_0.png)
 		-
