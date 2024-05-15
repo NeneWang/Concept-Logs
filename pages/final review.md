@@ -135,3 +135,8 @@
 		- Shanidar 1
 			- ![image.png](../assets/image_1715778389111_0.png)
 			- Many injuries', clearly aided by members of the community to stay alive.
+- For chapter 13
+	- Print them down:
+		- ![image.png](../assets/image_1715778465368_0.png)
+			- Connects within Siberian and Alaska
+		-
