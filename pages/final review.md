@@ -94,5 +94,7 @@
 - Whats the name of the fossil discovered that lived in an open savanna?
 	- ![image.png](../assets/image_1715777435381_0.png)
 	- The fossil typically associated with living in an open savanna environment is **Australopithecus afarensis**. The most famous specimen of this species is "Lucy," discovered in 1974 in the Afar region of Ethiopia. Australopithecus afarensis lived around 3.9 to 2.9 million years ago and shows adaptations for both tree climbing and bipedal walking, suggesting it lived in a diverse habitat including open savannas.
--
+- What are parts of anatomy that shift towards bipedalism? What parts of the anatomy are shifted?
+	- Spine:
+	-
 	-
