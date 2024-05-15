@@ -1,4 +1,6 @@
 - What are the defining features of a primate
 	- Gneral body plaims
-	- That have larger braims
+	- That have larger brains
 	- generalized body plan
+	- ![image.png](../assets/image_1715775145423_0.png)
+-
