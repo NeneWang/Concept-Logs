@@ -110,5 +110,8 @@
 		- ![image.png](../assets/image_1715777835698_0.png)
 	- What Made Ardi bipedal like?
 		- ![image.png](../assets/image_1715777848581_0.png)
-- What were the
--
+- What were odowan tools?
+	- ![image.png](../assets/image_1715777947395_0.png)
+- Which human species associated with standarized tools
+	- Erectus:
+	-
