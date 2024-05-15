@@ -48,5 +48,8 @@
 	- Dietary Habits: Chimpanzees have an omnivorous diet, including hunting smaller mammals.
 	- They can also catch our diseases
 - Asynchronous Tree Cycles?
-	- Means that they
+	- Means that they dont grow fruits at the same time:
+	- ![image.png](../assets/image_1715775967637_0.png)
+	- makes it more challanging to find the right fruit:
+		-
 -
