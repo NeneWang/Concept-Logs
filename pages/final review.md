@@ -59,5 +59,7 @@
 	- Field, captivity, and Semi Free Studying
 	- ![image.png](../assets/image_1715776401658_0.png)
 	- ![image.png](../assets/image_1715776418509_0.png)
-	-
+- What is reproductory Asymmetry?
+	- ![image.png](../assets/image_1715776477176_0.png)
+	- Feamles have lower reproductive potential
 -
