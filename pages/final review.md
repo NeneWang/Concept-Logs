@@ -119,5 +119,10 @@
 - Archaic Homosapines, are hyubrid within:
 	- ![image.png](../assets/image_1715778148997_0.png)
 	- From Erectus to Homosapiens
-	- Examples"
+	- Examples:
+		- Bodo Cranium
+		- ![image.png](../assets/image_1715778195784_0.png)
+		- Mauer Mandible
+			- ![image.png](../assets/image_1715778221884_0.png)
+		-
 		-
