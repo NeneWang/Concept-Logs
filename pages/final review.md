@@ -37,5 +37,9 @@
 		  Distribution: Strepsirhines are found mainly in Madagascar, Africa, and Asia; haplorrhines are found in the Americas, Africa, and Asia.
 	-
 - What is mean by the exception of the Tariser
+  collapsed:: true
 	- ![image.png](../assets/image_1715775588999_0.png)
-	- Almost equal traits between haplorines and stteph
+	- Almost equal traits between haplorines and sttephrines traits:
+	- However it ways more heavily on the way of the Haplorrines
+- What are the major discoveries of Jane Goodall?
+	-
