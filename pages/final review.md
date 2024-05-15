@@ -4,35 +4,18 @@
 	- generalized body plan
 	- ![image.png](../assets/image_1715775145423_0.png)
 - What are the differences between strepsirhine and Haplorrhine?
+	- ![image.png](../assets/image_1715775398583_0.png)
 	- Strepsirhines
-	  1. Groups:
-	  
-	  Includes lemurs, lorises, and galagos (bush babies).
-	  2. Nose:
-	  
-	  Characterized by a "wet nose" or rhinarium, which is a moist, fleshy pad at the end of the nose that enhances their sense of smell.
-	  3. Brain:
-	  
-	  Typically have smaller brains relative to their body size compared to haplorrhines.
-	  4. Vision:
-	  
-	  Possess a more developed sense of smell and have a more limited color vision. Many have a tapetum lucidum, a reflective layer in the eye that enhances night vision.
-	  5. Social Behavior:
-	  
-	  Generally more solitary or live in smaller social groups compared to many haplorrhines.
-	  6. Reproduction:
-	  
-	  Tend to have a more seasonal breeding cycle.
-	  7. Physical Traits:
-	  
-	  Often have a grooming claw on the second toe of the foot and a tooth comb, which is a specialized set of lower front teeth used for grooming.
-	  8. Geographic Distribution:
-	  
-	  Primarily found in Madagascar (lemurs) and tropical Africa and Asia (lorises and galagos).
+	  1. Groups: Includes lemurs, lorises, and galagos (bush babies).
+	  2. Nose: Characterized by a "wet nose" or rhinarium, which is a moist, fleshy pad at the end of the nose that enhances their sense of smell.
+	  3. Brain: Typically have smaller brains relative to their body size compared to haplorrhines.
+	  4. Vision Possess a more developed sense of smell and have a more limited color vision. Many have a tapetum lucidum, a reflective layer in the eye that enhances night vision.
+	  5. Social Behavior: Generally more solitary or live in smaller social groups compared to many haplorrhines.
+	  6. Reproduction: Tend to have a more seasonal breeding cycle.
+	  7. Physical Traits:  Often have a grooming claw on the second toe of the foot and a tooth comb, which is a specialized set of lower front teeth used for grooming.
+	  8. Geographic Distribution: Primarily found in Madagascar (lemurs) and tropical Africa and Asia (lorises and galagos).
 	  Haplorrhines
-	  1. Groups:
-	  
-	  Includes tarsiers, monkeys (both New World and Old World), and apes (including humans).
+	- 1. Groups: Includes tarsiers, monkeys (both New World and Old World), and apes (including humans).
 	  2. Nose:
 	  
 	  Characterized by a "dry nose" or a simple nose without a rhinarium.
