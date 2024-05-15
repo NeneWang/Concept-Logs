@@ -148,4 +148,4 @@
 		- Mantains the robust quality, but hte anatomy is still robust
 	- Settlement pacific island
 		- ![image.png](../assets/image_1715778592157_0.png)
-		- Only possible with ship
+		- Only possible with ships rathern than rafts.
