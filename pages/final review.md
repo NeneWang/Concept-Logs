@@ -106,5 +106,8 @@
 	- ![image.png](../assets/image_1715777792222_0.png)
 		- The femur:
 	- What parts of lucy indicates she is a biped?
-		-
+		- Pelvis
+		- ![image.png](../assets/image_1715777835698_0.png)
+	- What Made Ardi bipedal like?
+		- ![image.png](../assets/image_1715777848581_0.png)
 	-
