@@ -87,4 +87,7 @@
 - ![image.png](../assets/image_1715777268328_0.png)
 	- ![image.png](../assets/image_1715777274318_0.png)
 - What are two anatomical traits that are essential for fossils to be considered primates:
-	-
+	- Postorbital Bar:
+		- A bony ring around the eye socket that provides structural support for the face and protects the eyes.
+		  Opposable Thumbs (or Hallux):
+	- The ability to touch the thumb (or big toe) to the other fingers, allowing for grasping and manipulation of objects, which is critical for arboreal lifestyles.
