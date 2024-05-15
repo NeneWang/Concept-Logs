@@ -74,5 +74,10 @@
 	- If the polygoni is too big, the male will bring more males.
 - ![image.png](../assets/image_1715776898347_0.png)
 	- ![image.png](../assets/image_1715776905656_0.png)
+	- How do they become fossil?
+		- ![image.png](../assets/image_1715776934816_0.png)
+		- ![image.png](../assets/image_1715776954679_0.png)
+- 3 layers of stratigraphy?
+	- ![image.png](../assets/image_1715776981773_0.png)
 	-
 -
