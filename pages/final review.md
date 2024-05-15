@@ -3,4 +3,5 @@
 	- That have larger brains
 	- generalized body plan
 	- ![image.png](../assets/image_1715775145423_0.png)
--
+- What are the differences between strepsirhine and Haplorrhine?
+	-
