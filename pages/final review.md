@@ -69,4 +69,5 @@
 		- Exception do not display dominnat behaviours
 - Solitary Group:
 	- ![image.png](../assets/image_1715776611352_0.png)
+	- Lemurs example: are solidatary, are kicked out after mating.
 -
