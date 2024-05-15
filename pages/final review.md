@@ -36,4 +36,5 @@
 		  Grooming Adaptations: Strepsirhines have a grooming claw and tooth comb; haplorrhines do not.
 		  Distribution: Strepsirhines are found mainly in Madagascar, Africa, and Asia; haplorrhines are found in the Americas, Africa, and Asia.
 	-
--
+- What is mean by the exception of the Tariser
+	-
