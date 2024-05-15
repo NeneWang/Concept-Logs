@@ -80,5 +80,7 @@
 - 3 layers of stratigraphy?
 	- ![image.png](../assets/image_1715776981773_0.png)
 	- ![image.png](../assets/image_1715776996264_0.png)
-	-
+- What is the Pilldown Hoax?
+	- ![image.png](../assets/image_1715777090787_0.png)
+	- Bones were glued together to show that there was a missing ap
 -
