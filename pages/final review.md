@@ -139,4 +139,8 @@
 	- Print them down:
 		- ![image.png](../assets/image_1715778465368_0.png)
 			- Connects within Siberian and Alaska
+		- Oase 1
+			- ![image.png](../assets/image_1715778507176_0.png)
+		- Mungo 3
+			- ![image.png](../assets/image_1715778543192_0.png)
 		-
