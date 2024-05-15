@@ -48,5 +48,5 @@
 	- Dietary Habits: Chimpanzees have an omnivorous diet, including hunting smaller mammals.
 	- They can also catch our diseases
 - Asynchronous Tree Cycles?
-	-
+	- Means that they
 -
