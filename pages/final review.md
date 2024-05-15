@@ -54,5 +54,6 @@
 		- So the Spider monkeys have to think and memorize: Which makes thems marter with evolutionaruy pressure.
 		- ![image.png](../assets/image_1715776075073_0.png)
 - Under what COnditions are territorties not defended?
-	-
+	- Territories are not defended if energitacally doenst make sense
+-
 -
