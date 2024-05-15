@@ -98,6 +98,10 @@
 	- Spine: Skull shifts forward, allowing upright posture
 	- Pelvis: BEcomes smaller
 		- ![image.png](../assets/image_1715777700956_0.png)
-	-
+	- Fermur:
+		- ![image.png](../assets/image_1715777711527_0.png)
+	- Teeth
+		- ![image.png](../assets/image_1715777730371_0.png)
+		- They become more uniforms, and the spaces between teeths go away.
 	-
 	-
