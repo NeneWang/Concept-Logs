@@ -90,4 +90,7 @@
 	- Postorbital Bar:
 		- A bony ring around the eye socket that provides structural support for the face and protects the eyes.
 		  Opposable Thumbs (or Hallux):
-	- The ability to touch the thumb (or big toe) to the other fingers, allowing for grasping and manipulation of objects, which is critical for arboreal lifestyles.
+	- Progantic Face
+- What fossil:
+	- ![image.png](../assets/image_1715777435381_0.png)
+	-
