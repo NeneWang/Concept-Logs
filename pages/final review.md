@@ -132,4 +132,6 @@
 		- ![image.png](../assets/image_1715778316693_0.png)
 		- Why the facesprogantic faces? ?
 			- ![image.png](../assets/image_1715778351529_0.png)
-		-
+		- Shanidar 1
+			- ![image.png](../assets/image_1715778389111_0.png)
+			- Many injuries', clearly aided by members of the community to stay alive.
