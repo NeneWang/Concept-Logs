@@ -82,5 +82,5 @@
 	- ![image.png](../assets/image_1715776996264_0.png)
 - What is the Pilldown Hoax?
 	- ![image.png](../assets/image_1715777090787_0.png)
-	- Bones were glued together to show that there was a missing ap
+	- Bones were glued together to show that there was a missing ap outside of london. Took until 1950s to demostrate it was ahoax.
 -
