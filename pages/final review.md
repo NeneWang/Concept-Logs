@@ -2,7 +2,7 @@
 	- Gneral body plaims
 	- That have larger brains
 	- generalized body plan
-	- ![image.png](../assets/image_1715775145423_0.png)
+	- ![image.png](../assets/image_1715775145423_0.png){:height 358, :width 602}
 - What are the differences between strepsirhine and Haplorrhine?
   collapsed:: true
 	- ![image.png](../assets/image_1715775398583_0.png)
@@ -46,5 +46,7 @@
 	- Complex Social Behavior: Documented social hierarchies, grooming, and intergroup violence.
 	- Emotional Depth: Observed emotions and distinct personalities in chimpanzees.
 	- Dietary Habits: Chimpanzees have an omnivorous diet, including hunting smaller mammals.
-	- Communication: Identified complex vocalizations, gestures, and facial expressions.
+	- They can also catch our diseases
+- Asynchronous Tree Cycles?
+	-
 -
