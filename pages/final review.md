@@ -124,5 +124,9 @@
 		- ![image.png](../assets/image_1715778195784_0.png)
 		- Mauer Mandible
 			- ![image.png](../assets/image_1715778221884_0.png)
-		-
+		- WHat mauer Mandible shows?
+			- ![image.png](../assets/image_1715778255630_0.png)
+		- Whats the dfiiference: ![image.png](../assets/image_1715778266845_0.png)
+			- ![image.png](../assets/image_1715778278797_0.png)
+			-
 		-
