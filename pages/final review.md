@@ -117,5 +117,7 @@
 	- ![image.png](../assets/image_1715778011414_0.png)
 	- That they had a plan in mind.
 - Archaic Homosapines, are hyubrid within:
-	-
-	-
+	- ![image.png](../assets/image_1715778148997_0.png)
+	- From Erectus to Homosapiens
+	- Examples"
+		-
