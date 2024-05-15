@@ -114,4 +114,8 @@
 	- ![image.png](../assets/image_1715777947395_0.png)
 - Which human species associated with standarized tools
 	- Erectus:
+	- ![image.png](../assets/image_1715778011414_0.png)
+	- That they had a plan in mind.
+- Archaic Homosapines, are hyubrid within:
+	-
 	-
