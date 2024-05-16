@@ -1,0 +1,4 @@
+- https://docs.snowflake.com/en/user-guide/performance-query-warehouse-queue
+	- Consider creatin additional warehuses, and distribute the queries among them
+	- Consider converting a warehouse ot a multi cluster warehouse; supports spiking
+	- You can also increase the max number of clusters

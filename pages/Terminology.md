@@ -1,6 +1,35 @@
+- Following best practices when it comes to [[strategy-breaking-down-documentation]]
 - Snowpipe
 	- Snowpipe enables loading data from files as soon as they’re available in a stage. This means you can load data from files in micro-batches, making it available to users within minutes, rather than manually executing COPY statements on a schedule to load larger batches.
 	- CHANNELS: Snowpipe Channles
 		- https://docs.snowflake.com/en/user-guide/data-load-snowpipe-streaming-overview#channels
+- To research
+	- Join Cluster https://docs.snowflake.com/en/sql-reference/constructs/join
+		- TOP
+		- AT
+		- [[BEFORE]]
+		- CHANGES
+		- ASOF JOIN
+		- LATERAL
+		- MATCH_RECOGNIZE
+		- UNPIVOT
+		- PIVOT
+		- FETCH
+		- HAVING
+		- QUALIFY
+		- CONNECT BY
+- Cache -> Memory Optimization from
+  collapsed:: true
+	- [[Optimizing Warehouses for Performance]]
+		- [[Reducing Queues]]
+		- Resolving Memory Spillage
+			- https://docs.snowflake.com/en/user-guide/performance-query-warehouse-memory
+			- Memory spillage occurs when a computer program (like a database query or data processing task) runs out of available memory (RAM) and has to use disk space to store some of the data temporarily. This usually happens because the amount of data being processed exceeds the memory capacity. Since disk storage is much slower than RAM, memory spillage can significantly slow down the performance of the program.
+			- If found, consider providing 16X more memory per node.qiuery performance
+		- Increasing Warehouse Size
+		- Trying Query Acceleration
+		- Limiting Concurrent Queries
 	-
-		-
+- Time Travel #[[Time Travel]]
+	-
+	-

@@ -40,19 +40,24 @@
 	- Load SEC filings from a semi-structured JSON format.
 	- Use the Snowflake Marketplace to find free stock price data from Cybersyn.
 - Uploading JSON
+	- Cloning Tables
+		- Zero Copy Clone means, takes snapshot of the data available, and makes it available by copying the schema and linking the data, this avoids duplicated data.
+		- ```sql
+		  CREATE TABLE company_metadata_dev CLONE company_metadata;
+		  ```
 	- Create tables:
-		- ```
+		- ```sql
 		  CREATE TABLE sec_filings_index (v variant);
 		  - CREATE TABLE sec_filings_attributes (v variant);
 		  ```
 	- Create a stage:
-		- ```
+		- ```sql
 		  CREATE STAGE cybersyn_sec_filings
 		  url = 's3://sfquickstarts/zero_to_snowflake/cybersyn_cpg_sec_filings/';
 		  LIST @cybersyn_sec_filings;
 		  ```
 	- Strip and load the data:
-		- ```
+		- ```sql
 		  COPY INTO sec_filings_index
 		  FROM @cybersyn_sec_filings/cybersyn_sec_report_index.json.gz
 		    file_format = (type = json strip_outer_array = true);
@@ -62,7 +67,7 @@
 		  ```
 		- Here you can see the names that appears when selecting
 	- LIMITING
-		- ```
+		- ```sql
 		  COPY INTO sec_filings_index
 		  FROM @cybersyn_sec_filings/cybersyn_sec_report_index.json.gz
 		    file_format = (type = json strip_outer_array = true);
@@ -71,7 +76,7 @@
 		    file_format = (type = json strip_outer_array = true);
 		  ```
 	- Changing Views:
-		- ```
+		- ```sql
 		  CREATE OR REPLACE VIEW sec_filings_index_view AS
 		  SELECT
 		    v:CIK::string                   AS cik,
@@ -103,6 +108,97 @@
 		  FROM sec_filings_attributes;
 		  ```
 - SNOWFLAKE Internal SQL Queries
+  collapsed:: true
+	- Compute Statistics
+		- General Agregate Queries such as Percentages can be found here: https://docs.snowflake.com/en/sql-reference/functions-aggregation
+	- Clone:
+		- Cloning tables
+		- ```sql
+		  SELECT
+		      meta.primary_ticker,
+		      meta.company_name,
+		      ts.date,
+		      ts.value AS post_market_close,
+		      (ts.value / LAG(ts.value, 1) OVER (PARTITION BY meta.primary_ticker ORDER BY ts.date) - 1)::DOUBLE AS daily_return,
+		      AVG(ts.value) OVER (PARTITION BY meta.primary_ticker ORDER BY ts.date ROWS BETWEEN 4 PRECEDING AND CURRENT ROW) AS five_day_moving_avg_price
+		  FROM Financial__Economic_Essentials.cybersyn.stock_price_timeseries ts
+		  INNER JOIN company_metadata meta
+		  ON ts.ticker = meta.primary_ticker
+		  WHERE ts.variable_name = 'Post-Market Close';
+		  ```
+	- Using Cache
+		- Cached is done automatically.
+		- Running the same cache, conserve the cache of the statistics being run,
+		- Consider that the auto suspensions remains by default 10 minutes, which is also around the cache remaining.
+		- ```sql
+		  SELECT
+		      meta.primary_ticker,
+		      meta.company_name,
+		      ts.date,
+		      ts.value AS nasdaq_volume,
+		      (ts.value / LAG(ts.value, 1) OVER (PARTITION BY meta.primary_ticker ORDER BY ts.date) - 1)::DOUBLE AS volume_change
+		  FROM cybersyn.stock_price_timeseries ts
+		  INNER JOIN company_metadata meta
+		  ON ts.ticker = meta.primary_ticker
+		  WHERE ts.variable_name = 'Nasdaq Volume';
+		  ```
+		-
+	- joining Tables
+		- Join: https://docs.snowflake.com/en/sql-reference/constructs/join
+		- ```sql
+		  WITH data_prep AS (
+		      SELECT 
+		          idx.cik,
+		          idx.company_name,
+		          idx.adsh,
+		          idx.form_type,
+		          att.measure_description,
+		          CAST(att.value AS DOUBLE) AS value,
+		          att.period_start_date,
+		          att.period_end_date,
+		          att.covered_qtrs,
+		          TRIM(att.metadata:"ProductOrService"::STRING) AS product
+		      FROM sec_filings_attributes_view att
+		      JOIN sec_filings_index_view idx
+		          ON idx.cik = att.cik AND idx.adsh = att.adsh
+		      WHERE idx.cik = '0001637459'
+		          AND idx.form_type IN ('10-K', '10-Q')
+		          AND LOWER(att.measure_description) = 'net sales'
+		          AND (att.metadata IS NULL OR OBJECT_KEYS(att.metadata) = ARRAY_CONSTRUCT('ProductOrService'))
+		          AND att.covered_qtrs IN (1, 4)
+		          AND value > 0
+		      QUALIFY ROW_NUMBER() OVER (
+		          PARTITION BY idx.cik, idx.company_name, att.measure_description, att.period_start_date, att.period_end_date, att.covered_qtrs, product
+		          ORDER BY idx.filed_date DESC
+		      ) = 1
+		  )
+		  
+		  SELECT
+		      company_name,
+		      measure_description,
+		      product,
+		      period_end_date,
+		      CASE
+		          WHEN covered_qtrs = 1 THEN value
+		          WHEN covered_qtrs = 4 THEN value - SUM(value) OVER (
+		              PARTITION BY cik, measure_description, product, YEAR(period_end_date)
+		              ORDER BY period_end_date
+		              ROWS BETWEEN 4 PRECEDING AND 1 PRECEDING
+		          )
+		      END AS quarterly_value
+		  FROM data_prep
+		  ORDER BY product, period_end_date;
+		  ```
 	-
+	-
+- Using Time Travel #[[Time Travel]]
+	- Working with role, Account Admin & Account Usage
+	- Using Time travel:
+		- Allows Undroping tables: https://quickstarts.snowflake.com/guide/getting_started_with_snowflake/index.html#8
+		- Allows for Reversing Queries or selecting [[BEFORE]]
+- [10. Working with Roles, Account Admin, & Account Usage](https://quickstarts.snowflake.com/guide/getting_started_with_snowflake/index.html#9)
+	-
+-
 - Questions
 	- How to load from private s3?
+		- This is important as you want to load specifically there.
