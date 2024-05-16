@@ -3,6 +3,9 @@
 - Considerations:
 	- Reading the Official Documentation
 	- Just reading the documentation might not mean officially understanding what's going on
+		- Requires Basic Practical understanding first
+		- Then using a guide is always good.
+		- Documentation just understanding the overall structure and function references is enough.
 	- Very high level memorization prompts: Ideally using Concept Logs, to define and to memorize - questions would be in the order of:
 		- Why would you use this class and what is usually stored on this library tools?
 - Candidates Solutions

@@ -15,6 +15,8 @@
 		- https://react-typescript-cheatsheet.netlify.app/docs/advanced/patterns_by_usecase
 		- Extensive Refrence: https://react.dev/reference/react
 	- Go to [[Postgresql]]
+	- note page [[strategy-breaking-down-documentation]]
+		-
 		-
 -
 - **Backlog**
