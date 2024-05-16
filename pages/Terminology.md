@@ -1,0 +1,6 @@
+- Snowpipe
+	- Snowpipe enables loading data from files as soon as they’re available in a stage. This means you can load data from files in micro-batches, making it available to users within minutes, rather than manually executing COPY statements on a schedule to load larger batches.
+	- CHANNELS: Snowpipe Channles
+		- https://docs.snowflake.com/en/user-guide/data-load-snowpipe-streaming-overview#channels
+	-
+		-

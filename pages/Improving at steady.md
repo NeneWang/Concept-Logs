@@ -1,0 +1,6 @@
+- The idea is to maximize each job to get better and deeper than basics in each framework or technology being used.
+- For example:
+	- Imagine if you were to become automatically legendarily better at:
+		- Elasticsearch
+		- Python - Fluent
+		- Advanced AWS

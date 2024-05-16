@@ -1,5 +1,6 @@
 - Here some tips to improve yourself:
 	- [[Keep Pseudocode]]
 	- [[Content writing]]
+	- [[Improving at steady]]
 	-
 -

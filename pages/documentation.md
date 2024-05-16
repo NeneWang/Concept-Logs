@@ -9,7 +9,13 @@
 	- [[Videogame Storytelling]]
 	- [[Misc Classes]]
 	- [[Entrepreneurship]]
-	-
+- To document things better:
+	- Go through React
+		- Manual to go: https://legacy.reactjs.org/docs/refs-and-the-dom.html
+		- https://react-typescript-cheatsheet.netlify.app/docs/advanced/patterns_by_usecase
+		- Extensive Refrence: https://react.dev/reference/react
+	- Go to [[Postgresql]]
+		-
 -
 - **Backlog**
 - C#

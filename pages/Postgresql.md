@@ -1,0 +1,14 @@
+- Backlog:
+	- Navigate through Chapter 7 And understanding things (Master this chapter)
+		- https://www.postgresql.org/docs/current/queries.html
+		- Then go over Part II, which is what you work on more heavily:
+			- https://www.postgresql.org/docs/16/sql.html
+		- Strategy:
+			- Go and document weird things such as:
+				- Geometric Types, Network Address Types, UUID, XML, Range, Domain, pg_lsn, Pseudocode
+		- You have some cool functions here:
+			- Strategy: Master all compased JOIN TABLES Practices,
+			- But also write down documentation of some interesting methods such as statistics information,
+	- Overall Documentation
+		- https://www.postgresql.org/docs/16/index.html
+	-

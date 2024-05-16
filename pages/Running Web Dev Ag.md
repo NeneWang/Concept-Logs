@@ -2,4 +2,7 @@
 	- Keep costs low
 	- Profit Oriented Approach
 		- Very much end to service approach. And we are literally making money
-	- Partnership as ceo.
+	- Partnership
+		- as ceo. with Prometheus
+		- Project Based, for example, if X participates on Y, then I split witth the devs involved.
+		-
