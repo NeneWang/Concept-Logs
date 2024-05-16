@@ -6,7 +6,9 @@
 		- Advanced AWS
 		- Postgresql.
 	- How?
-		- Reading the Library
+		- Reading the docs
+			- Use this guide to even get better at those docs.
 		- Consulting Advanced Books. -> Go over simple optimizations
 		- Ensuring Quality of the project
+		- Ignoring other shiny
 	-
