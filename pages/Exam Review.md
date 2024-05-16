@@ -1,0 +1,65 @@
+- What is the correct order of the Human Lineage? #card
+	- ![image.png](../assets/image_1715170106833_0.png)
+	- Australopithecus -> Homo Habilis
+	- Homo Neanderthalansis
+	- Homo Sapiens
+- What olden ones tools signify? #card
+	- ![image.png](../assets/image_1715170223659_0.png)
+	- It signified tools and properties
+- What characterizes Homo Erectus? #card
+	- They were very tall, lived chasing
+	- Had standardized tools: Clivers, Axes in mind had standard tools replicated
+	- ![image.png](../assets/image_1715170316587_0.png)
+- Were the human species reproductively compatible? #card
+	- Yes, they produced hybrids
+		- Archaic are produced from Neanderthals and Homosapiens
+	- It would be a archaic Homo sapiens.
+	- ![image.png](../assets/image_1715170767353_0.png)
+- What Makes the Mauler Mandible Unique #card
+	- ![image.png](../assets/image_1715171001721_0.png)
+- What makes the Bodo Cranium Unique?
+	- ![image.png](../assets/image_1715171092611_0.png)
+- What's the point of Ritual Burial? #card
+	- Religion
+	- ![image.png](../assets/image_1715171247149_0.png)
+	- They had dreams about people who were dead.
+	- Opened the idea that they might be somewhere else?
+-
+- ![image.png](../assets/image_1715171388951_0.png)
+- Who was Shanidar 1? What doe sit mean? #card
+	- ![image.png](../assets/image_1715171413728_0.png)
+	- He probably had taken cared of by their own kind
+	- The broken bones had to feed him and take care of him. Group had to compensate,
+	- They didnt leave him behind
+	- ![image.png](../assets/image_1715171751686_0.png)
+- What's the main adaptation of Neandertals? #card
+	- ![image.png](../assets/image_1715172060291_0.png)
+- Is there a link between on-human privates and primates?
+	- ![image.png](../assets/image_1715172205684_0.png)
+- -
+	- ![image.png](../assets/image_1715172389812_0.png)
+- Mention key points that distinguish Neanderthal anatomy #card
+	- Large Brain cases
+	- Mid face projection
+	- Spoonshap recisors
+	- Robust quality of the bone.
+	- Ribcage
+	- ![image.png](../assets/image_1715172503119_0.png)
+- Why nendertals had prognatic faces and large noses? #card
+	- ![image.png](../assets/image_1715172774228_0.png)
+	- Allows more space to warm he air that reaches the respiratory system
+- The bones are robust
+	- ![image.png](../assets/image_1715172892432_0.png)
+- Neandertals Burials, Hunting and Subsistance
+	- ![image.png](../assets/image_1715173081833_0.png)
+	- ![image.png](../assets/image_1715173130532_0.png)
+- Shanidar 1
+	- ![image.png](../assets/image_1715173211145_0.png){:height 323, :width 602}
+- What is the term that descrives when they evolve together? #card
+	- Adaptive Radiation. Sex with Neanderthals have those DNAs, roughly 2% to their Neanderthals ancestors
+	- ![image.png](../assets/image_1715173591472_0.png)
+	- Where you have Neanderthals you also have depression and addiction.
+		- Might provide some sort of resiliance?
+- What are the 4 key points
+	-
+	-

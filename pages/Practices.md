@@ -1,0 +1,7 @@
+- Practice Improvisation
+	- Using the last word
+	- Selling something random
+		- Being able to take advantage of communications
+		- Use fun to your side.
+	-
+-
