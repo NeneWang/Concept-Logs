@@ -1,4 +1,5 @@
 - Core Concept
 	- Keep costs low
 	- Profit Oriented Approach
-	- Partnership as
+		- Very much end to service approach. And we are literally making money
+	- Partnership as ceo.
