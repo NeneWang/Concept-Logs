@@ -108,7 +108,6 @@
 		  FROM sec_filings_attributes;
 		  ```
 - SNOWFLAKE Internal SQL Queries
-  collapsed:: true
 	- Compute Statistics
 		- General Agregate Queries such as Percentages can be found here: https://docs.snowflake.com/en/sql-reference/functions-aggregation
 	- Clone:

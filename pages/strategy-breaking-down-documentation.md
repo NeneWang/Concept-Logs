@@ -11,11 +11,18 @@
 - Candidates Solutions
 	- Writing Code, then checking on the code. And explore the classes and also view what other potential methods you could have used given that class.
 		- If don't know yet, understand it's parent library
-		- Workflow:
+		- Workflow for integrating Documentation and Learning:
 			- Adding the documentation path to the corresponding [[Documentation]] section.
 			- Once the project is done, search and add details to the page provided for such documentation to be annotated.
+			- Contain an Terminology sidebar to organize things to research AFTER. such as at [[Terminology]]
+			  collapsed:: true
+				- ![image.png](../assets/image_1715890579891_0.png)
+				-
+			- While exploring Tutorials. or following courses, have the good habit of taking screenshots + Where in the documentation such as done here: [[SQL Reference]]
+			  collapsed:: true
+				- ![image.png](../assets/image_1715890782305_0.png)
+				-
 		- Reasons
 			- This solution is **more** efficient than the base solution of (attempting to memo all documentaiton)
+			- Understand what is what for, by exploring close problems.
 			-
-			-
-	-
