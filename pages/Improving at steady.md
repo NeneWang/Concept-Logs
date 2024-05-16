@@ -16,5 +16,9 @@
 		- Reading and performing Best Practices
 	- Why more important than previous approach?
 		- No need of hiding anything, can proudly display what you are doing and recording as well what you are doing.
+		- You also improve everything by the right way:
+			- Better chances of recs.
+			- Proudly display improvements
+			- No steal of time.
 		-
 	-
