@@ -4,3 +4,9 @@
 		- Elasticsearch
 		- Python - Fluent
 		- Advanced AWS
+		- Postgresql.
+	- How?
+		- Reading the Library
+		- Consulting Advanced Books. -> Go over simple optimizations
+		- Ensuring Quality of the project
+	-
