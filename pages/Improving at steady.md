@@ -21,5 +21,5 @@
 			- Proudly display improvements
 			- No steal of time.
 	- Disadvantages:
-		-
+		- Slowly progress on craft passion projects.
 	-
