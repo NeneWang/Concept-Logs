@@ -14,4 +14,7 @@
 			- Iterating on the documentation aim to implement one advanced query per day as per optimizations, or read up the docs on the topic
 		- Ignoring other shiny frameworks
 		- Reading and performing Best Practices
+	- Why more important than previous approach?
+		- No need of hiding anything, can proudly display what you are doing and recording as well what you are doing.
+		-
 	-
