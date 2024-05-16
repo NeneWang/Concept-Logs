@@ -20,5 +20,6 @@
 			- Better chances of recs.
 			- Proudly display improvements
 			- No steal of time.
+	- Disadvantages:
 		-
 	-
