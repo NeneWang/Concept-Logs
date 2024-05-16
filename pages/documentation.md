@@ -8,6 +8,7 @@
 	- [[Data Science]]
 	- [[Videogame Storytelling]]
 	- [[Misc Classes]]
+	- [[Entrepreneurship]]
 	-
 -
 - **Backlog**

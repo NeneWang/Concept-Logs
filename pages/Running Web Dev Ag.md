@@ -1,0 +1,4 @@
+- Core Concept
+	- Keep costs low
+	- Profit Oriented Approach
+	- Partnership as
