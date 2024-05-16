@@ -5,10 +5,13 @@
 		- Python - Fluent
 		- Advanced AWS
 		- Postgresql.
+		- Regex
 	- How?
 		- Reading the docs
 			- Use this guide to even get better at those docs.
 		- Consulting Advanced Books. -> Go over simple optimizations
 		- Ensuring Quality of the project
-		- Ignoring other shiny languages
+			- Iterating on the documentation aim to implement one advanced query per day as per optimizations, or read up the docs on the topic
+		- Ignoring other shiny frameworks
+		- Reading and performing Best Practices
 	-
