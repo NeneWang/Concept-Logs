@@ -3,5 +3,7 @@
 	- Data Science
 	- Library Development
 	- Startup Development
+	- Algorithms Mastery
+	- Study Books Learning
 	-
 	-
