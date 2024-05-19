@@ -1,5 +1,7 @@
 - Portfolio Based Approach
-- After completing the key 3 stepping stones
+- After completing the key 3 stepping stones -> Then
 	- Data Science
 	- Library Development
+	- Startup Development
+	-
 	-
