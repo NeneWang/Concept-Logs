@@ -9,6 +9,8 @@
 	- [[Philosophy]]
 	- [[Job Searching]]
 	- [[Building Capita]]
+	- [[Schedule-Objective Approach]]
+	-
 	-
 	-
 	-
