@@ -3,6 +3,7 @@
 	- Credentials in the industry.
 	- Developing/Contributing to Popular and Reusable Libraries
 		- Requires expercy in a domain.
+		- Yep, rip them off make it look as similar as possible but with your own brainding.
 		- Reading About the topics, and doing a proof of concepts, building a research report about it and publish it in your profile
 			- DEAP: https://github.com/DEAP/deap
 			- Neural MMO: https://github.com/openai/neural-mmo/fork
