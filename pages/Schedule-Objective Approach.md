@@ -1,5 +1,5 @@
 - Life after College
-	- Attempting to become a top level engineer. as a magician contributing to the tools and spells used in the battlefield. Not just an instructions reader. The same approach you should go for when going to study engineering. Without the need of Phd, which is kind of awesome
+	- Attempting to become a top level engineer. as a magician contributing to the tools and spells used in the battlefield. Not just an instructions reader. The same approach you should go for when going to study engineering. Without the need of PhD, which is kind of awesome. Also use the job experience as a place for research.
 	- That's where the true power of open source contribution reaches out.
 - Portfolio Based Approach
 	- They are something you shoul able to document and add to your portfolio.
