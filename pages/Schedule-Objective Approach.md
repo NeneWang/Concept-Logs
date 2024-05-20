@@ -1,7 +1,8 @@
 - Portfolio Based Approach
 	- They are something you shoul able to document and add to your portfolio.
 	- Credentials in the industry.
-	- Libraries with users
+	- Developing Popular and Reusable Libraries
+	-
 	- Games, Appplications, Porjects  with Users
 - After completing the key 3 stepping stones -> Then
 	- Project
