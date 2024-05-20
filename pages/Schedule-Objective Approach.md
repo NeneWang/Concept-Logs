@@ -60,5 +60,7 @@
 		- Study Books Learning
 		- Reading Papers
 		- Ture Libraries MAstery: Creating Replicas of Open Source tools used at your company for fun and true mastery
-	-
+- To ask
+	- How to contribute to knowledge and progress on a budget
+	- I heard much about toxity in Academia
 	-
