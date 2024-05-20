@@ -2,7 +2,7 @@
 	- They are something you shoul able to document and add to your portfolio.
 	- Credentials in the industry.
 	- Developing Popular and Reusable Libraries
-		- Requires exin a domain.
+		- Requires expercy in a domain.
 	- Games, Appplications, Porjects  with Users
 - After completing the key 3 stepping stones -> Then
 	- Project
