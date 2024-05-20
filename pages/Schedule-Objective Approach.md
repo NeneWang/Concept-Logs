@@ -47,6 +47,6 @@
 		- Algorithms Mastery
 		- Study Books Learning
 		- Reading Papers
-		-
+		- Creating Replicas of Open Source tools used at your company for fun and true mastery
 	-
 	-
