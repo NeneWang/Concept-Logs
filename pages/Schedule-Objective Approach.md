@@ -8,7 +8,10 @@
 	- Project
 		- [Data Science Science Challenges](https://www.kaggle.com/competitions)
 		- Library Development
-			- Extending
+			- Extending DEAP, and other public libraries.
+			- Having your custom versions of:
+				- DEAP
+				-
 		- Startup Development
 	- Habits
 		- Algorithms Mastery
