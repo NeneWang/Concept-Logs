@@ -1,13 +1,16 @@
 - Life after College
 	- Attempting to become a top level engineer. as a magician contributing to the tools and spells used in the battlefield. Not just an instructions reader. The same approach you should go for when going to study engineering. Without the need of PhD, which is kind of awesome. Also use the job experience as a place for research.
 	- That's where the true power of open source contribution reaches out.
+- How to become a world class
 - Portfolio Based Approach
 	- They are something you shoul able to document and add to your portfolio.
 	- Credentials in the industry.
 	- Developing/Contributing to Popular and Reusable Libraries
 		- Requires expercy in a domain.
 		- Yep, rip them off make it look as similar as possible but with your own brainding.
+			- Contribute on them locally, as it is likely that they will never accept ur contributions lol.
 		- Reading About the topics, and doing a proof of concepts, building a research report about it and publish it in your profile
+		  collapsed:: true
 			- DEAP: https://github.com/DEAP/deap
 			- Surprise: https://github.com/NicolasHug/Surprise
 			- Neural MMO: https://github.com/openai/neural-mmo/fork
