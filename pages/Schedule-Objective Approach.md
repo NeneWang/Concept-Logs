@@ -1,14 +1,15 @@
 - Portfolio Based Approach
 	- They are something you shoul able to document and add to your portfolio.
-	- Credentials, Long term projects
+	- Credentials in the industry.
 	- Libraries with users
 	- Games, Appplications, Porjects  with Users
 - After completing the key 3 stepping stones -> Then
-	-
-	- Data Science Science Challanges
-	- Library Development
-	- Startup Development
-	- Algorithms Mastery
-	- Study Books Learning
+	- Project
+		- Data Science Science Challenges
+		- Library Development
+		- Startup Development
+	- Habits
+		- Algorithms Mastery
+		- Study Books Learning
 	-
 	-
