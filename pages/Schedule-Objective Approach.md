@@ -3,7 +3,8 @@
 	- Credentials in the industry.
 	- Developing Popular and Reusable Libraries
 		- Requires expercy in a domain.
-		- Reading About the topics, and doing a proof of concepts
+		- Reading About the topics, and doing a proof of concepts, building a research report about it.
+			- VPT: https://openai.com/index/vpt/
 	- Games, Appplications, Porjects  with Users
 - After completing the key 3 stepping stones -> Then
 	- Project
