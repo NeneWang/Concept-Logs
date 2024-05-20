@@ -3,6 +3,7 @@
 	- Credentials in the industry.
 	- Developing Popular and Reusable Libraries
 		- Requires expercy in a domain.
+		- Reading About the topics, and doing an
 	- Games, Appplications, Porjects  with Users
 - After completing the key 3 stepping stones -> Then
 	- Project
