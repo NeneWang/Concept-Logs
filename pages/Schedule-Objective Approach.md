@@ -12,7 +12,7 @@
 			- Extending DEAP, and other public libraries.
 			- Having your custom versions of:
 				- DEAP Framework
-				- Your own SASS Framework for recommender Tool competiting with
+				- Your own SASS Framework for recommender Tool competing with [Recombee](https://www.recombee.com/?utm_source=google&utm_medium=cpc&utm_id=20925549817&utm_campaign=[S]-Recombee-US-CAN&utm_term=recommender%20api&utm_content=686815073181&gclid=Cj0KCQjwxqayBhDFARIsAANWRnSY8Lwp3IVVJ8MBvo_gKjUmZgK8gK7SfPBc3-6XBOHzcSbyT6RtCOoaAqWNEALw_wcB&gad_source=1)
 				- Cloning
 		- Startup Development
 	- Habits
