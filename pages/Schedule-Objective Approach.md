@@ -10,8 +10,8 @@
 		- Library Development
 			- Extending DEAP, and other public libraries.
 			- Having your custom versions of:
-				- DEAP
-				-
+				- DEAP Framework
+				- Your own SASS Framework for
 		- Startup Development
 	- Habits
 		- Algorithms Mastery
