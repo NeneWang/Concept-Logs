@@ -11,7 +11,7 @@
 			- Extending DEAP, and other public libraries.
 			- Having your custom versions of:
 				- DEAP Framework
-				- Your own SASS Framework for
+				- Your own SASS Framework for paper
 		- Startup Development
 	- Habits
 		- Algorithms Mastery
