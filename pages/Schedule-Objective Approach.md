@@ -24,6 +24,7 @@
 			- Marktext: https://github.com/marktext/marktext
 			- Sci Kit Learn: https://github.com/scikit-learn/scikit-learn
 			- Sns
+			- Focal Board: https://github.com/mattermost/focalboard
 			- Fauxiplot: https://github.com/fauxpilot/fauxpilot
 			- Ant Design
 			- Bevy Rust Game Engine  https://github.com/bevyengine/bevy
