@@ -7,8 +7,11 @@
 			- Minecraft: https://openai.com/index/vpt/
 			- OpenDevin: https://github.com/OpenDevin/OpenDevin
 			- Renpy: https://github.com/renpy/renpy
+			-
 			- Anki: https://github.com/ankitects/anki
+			- Aseprite: https://github.com/aseprite/aseprite
 			- Godot:  https://github.com/godotengine/godot/tree/master\
+			- Blender: https://github.com/blender/blender/tree/main
 			-
 	- Games, Appplications, Porjects  with Users
 - After completing the key 3 stepping stones -> Then
