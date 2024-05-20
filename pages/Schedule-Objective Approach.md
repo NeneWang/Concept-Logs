@@ -7,6 +7,7 @@
 			- Minecraft: https://openai.com/index/vpt/
 			- OpenDevin: https://github.com/OpenDevin/OpenDevin
 			- Renpy: https://github.com/renpy/renpy
+			- Anki: https://github.com/ankitects/anki
 			-
 	- Games, Appplications, Porjects  with Users
 - After completing the key 3 stepping stones -> Then
