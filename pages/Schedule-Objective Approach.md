@@ -3,8 +3,10 @@
 	- Credentials in the industry.
 	- Developing Popular and Reusable Libraries
 		- Requires expercy in a domain.
-		- Reading About the topics, and doing a proof of concepts, building a research report about it.
+		- Reading About the topics, and doing a proof of concepts, building a research report about it and publish it in your profile
 			- Minecraft: https://openai.com/index/vpt/
+			- OpenDevin: https://github.com/OpenDevin/OpenDevin
+			-
 	- Games, Appplications, Porjects  with Users
 - After completing the key 3 stepping stones -> Then
 	- Project
