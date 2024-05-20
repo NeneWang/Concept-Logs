@@ -1,7 +1,7 @@
 - Portfolio Based Approach
 	- They are something you shoul able to document and add to your portfolio.
 	- Credentials in the industry.
-	- Developing Popular and Reusable Libraries
+	- Developing/Contributing to Popular and Reusable Libraries
 		- Requires expercy in a domain.
 		- Reading About the topics, and doing a proof of concepts, building a research report about it and publish it in your profile
 			- DEAP: https://github.com/DEAP/deap
@@ -13,6 +13,7 @@
 			- PhaserJS https://github.com/phaserjs/phaser
 			- Matplotlib: https://github.com/matplotlib/matplotlib
 			- Anki: https://github.com/ankitects/anki
+			- Elasticsearch: https://github.com/elastic/elasticsearch
 			- Aseprite: https://github.com/aseprite/aseprite
 			- Minetest: https://github.com/minetest/minetest/tree/master
 			- Warzone
