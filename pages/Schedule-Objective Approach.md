@@ -2,7 +2,6 @@
 	- They are something you shoul able to document and add to your portfolio.
 	- Credentials in the industry.
 	- Developing/Contributing to Popular and Reusable Libraries
-	  collapsed:: true
 		- Requires expercy in a domain.
 		- Reading About the topics, and doing a proof of concepts, building a research report about it and publish it in your profile
 			- DEAP: https://github.com/DEAP/deap
@@ -19,6 +18,7 @@
 			- Aseprite: https://github.com/aseprite/aseprite
 			- Minetest: https://github.com/minetest/minetest/tree/master
 			- Warzone
+			- Wesnoth: https://github.com/wesnoth/wesnoth/tree/master
 			- Cataclysm
 			- Godot:  https://github.com/godotengine/godot/tree/master\
 			- Blender: https://github.com/blender/blender/tree/main
@@ -47,6 +47,6 @@
 		- Algorithms Mastery
 		- Study Books Learning
 		- Reading Papers
-		- Creating Replicas of Open Source tools used at your company for fun and true mastery
+		- Ture Libraries MAstery: Creating Replicas of Open Source tools used at your company for fun and true mastery
 	-
 	-
