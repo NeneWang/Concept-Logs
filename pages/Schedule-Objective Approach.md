@@ -2,6 +2,7 @@
 	- They are something you shoul able to document and add to your portfolio.
 	- Credentials in the industry.
 	- Developing/Contributing to Popular and Reusable Libraries
+	  collapsed:: true
 		- Requires expercy in a domain.
 		- Reading About the topics, and doing a proof of concepts, building a research report about it and publish it in your profile
 			- DEAP: https://github.com/DEAP/deap
@@ -46,5 +47,6 @@
 		- Algorithms Mastery
 		- Study Books Learning
 		- Reading Papers
+		-
 	-
 	-
