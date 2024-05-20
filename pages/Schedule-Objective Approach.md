@@ -14,6 +14,7 @@
 			- PhaserJS https://github.com/phaserjs/phaser
 			- Matplotlib: https://github.com/matplotlib/matplotlib
 			- Anki: https://github.com/ankitects/anki
+			- Wesnoth: https://github.com/wesnoth/wesnoth
 			- Elasticsearch: https://github.com/elastic/elasticsearch
 			- Aseprite: https://github.com/aseprite/aseprite
 			- Minetest: https://github.com/minetest/minetest/tree/master
