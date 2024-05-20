@@ -6,8 +6,9 @@
 	- Games, Appplications, Porjects  with Users
 - After completing the key 3 stepping stones -> Then
 	- Project
-		- Data Science Science Challenges
+		- [Data Science Science Challenges](https://www.kaggle.com/competitions)
 		- Library Development
+			- Extending
 		- Startup Development
 	- Habits
 		- Algorithms Mastery
