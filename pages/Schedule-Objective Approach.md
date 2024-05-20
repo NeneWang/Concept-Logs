@@ -1,5 +1,5 @@
 - Life after College
-	- Attempting to become a top level engineer. as a magician contributing to the tools and spells used in the battlefield. Not jsut an instructions reader. The same approach you should go for when gointg to study engineering for
+	- Attempting to become a top level engineer. as a magician contributing to the tools and spells used in the battlefield. Not just an instructions reader. The same approach you should go for when going to study engineering.
 - Portfolio Based Approach
 	- They are something you shoul able to document and add to your portfolio.
 	- Credentials in the industry.
