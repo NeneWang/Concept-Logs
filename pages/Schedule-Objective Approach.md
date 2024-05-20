@@ -2,7 +2,6 @@
 	- They are something you shoul able to document and add to your portfolio.
 	- Credentials in the industry.
 	- Developing/Contributing to Popular and Reusable Libraries
-	  collapsed:: true
 		- Requires expercy in a domain.
 		- Reading About the topics, and doing a proof of concepts, building a research report about it and publish it in your profile
 			- DEAP: https://github.com/DEAP/deap
@@ -25,6 +24,10 @@
 			- Freebsd: https://github.com/freebsd/freebsd-src
 			- Mindustry: https://github.com/Anuken/Mindustry/tree/master
 			- OpenRa: https://github.com/OpenRA/OpenRA
+			- Aws Open Source:
+				- https://aws.github.io/
+					- Includes AWS CDK
+					- Firecracker
 			-
 	- Games, Appplications, Porjects  with Users
 	- Reading Papers/Books and Converting into Videos
