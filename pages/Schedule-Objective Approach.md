@@ -5,7 +5,7 @@
 		- Requires expercy in a domain.
 		- Reading About the topics, and doing a proof of concepts, building a research report about it and publish it in your profile
 			- DEAP: https://github.com/DEAP/deap
-			- Minecraft: https://openai.com/index/vpt/
+			- Neural MMO: https://github.com/openai/neural-mmo/fork
 			- OpenDevin: https://github.com/OpenDevin/OpenDevin
 			- Renpy: https://github.com/renpy/renpy
 			- Sci Kit Learn: https://github.com/scikit-learn/scikit-learn
