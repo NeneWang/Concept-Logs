@@ -1,3 +1,5 @@
+- Life after College
+	- Attempting to become a top level engineer.
 - Portfolio Based Approach
 	- They are something you shoul able to document and add to your portfolio.
 	- Credentials in the industry.
