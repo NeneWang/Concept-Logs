@@ -17,6 +17,7 @@
 			- Marktext: https://github.com/marktext/marktext
 			- Sci Kit Learn: https://github.com/scikit-learn/scikit-learn
 			- Ant Design
+			- Bevy Rust Game Engine  https://github.com/bevyengine/bevy
 			- PhaserJS https://github.com/phaserjs/phaser
 			- Matplotlib: https://github.com/matplotlib/matplotlib
 			- Anki: https://github.com/ankitects/anki
