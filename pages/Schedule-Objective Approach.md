@@ -10,6 +10,7 @@
 			- Renpy: https://github.com/renpy/renpy
 			- Sci Kit Learn: https://github.com/scikit-learn/scikit-learn
 			- Ant Design
+			- PhaserJS https://github.com/phaserjs/phaser
 			- Matplotlib: https://github.com/matplotlib/matplotlib
 			- Anki: https://github.com/ankitects/anki
 			- Aseprite: https://github.com/aseprite/aseprite
