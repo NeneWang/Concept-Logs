@@ -8,6 +8,8 @@
 			- Neural MMO: https://github.com/openai/neural-mmo/fork
 			- OpenDevin: https://github.com/OpenDevin/OpenDevin
 			- Renpy: https://github.com/renpy/renpy
+			- Logseq: https://github.com/logseq/logseq
+			- Marktext: https://github.com/marktext/marktext
 			- Sci Kit Learn: https://github.com/scikit-learn/scikit-learn
 			- Ant Design
 			- PhaserJS https://github.com/phaserjs/phaser
