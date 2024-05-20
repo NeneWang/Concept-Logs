@@ -7,7 +7,7 @@
 			- Minecraft: https://openai.com/index/vpt/
 			- OpenDevin: https://github.com/OpenDevin/OpenDevin
 			- Renpy: https://github.com/renpy/renpy
-			-
+			- Sci Kit Learn: https://github.com/scikit-learn/scikit-learn
 			- Anki: https://github.com/ankitects/anki
 			- Aseprite: https://github.com/aseprite/aseprite
 			- Godot:  https://github.com/godotengine/godot/tree/master\
