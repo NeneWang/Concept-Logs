@@ -2,6 +2,7 @@
 	- They are something you shoul able to document and add to your portfolio.
 	- Credentials in the industry.
 	- Developing/Contributing to Popular and Reusable Libraries
+	  collapsed:: true
 		- Requires expercy in a domain.
 		- Reading About the topics, and doing a proof of concepts, building a research report about it and publish it in your profile
 			- DEAP: https://github.com/DEAP/deap
@@ -25,6 +26,8 @@
 			- OpenRa: https://github.com/OpenRA/OpenRA
 			-
 	- Games, Appplications, Porjects  with Users
+	- Reading Papers/Books and Converting into Videos
+		- https://github.com/papers-we-love/papers-we-love/tree/main
 - After completing the key 3 stepping stones -> Then
 	- Project
 		- [Data Science Science Challenges](https://www.kaggle.com/competitions)
