@@ -4,4 +4,4 @@
 - Use Euler Cycle to determine if there is a cycle
 	-
 - Whats the difference between Euler Cycle and Euyler path
-	-
+	- Euler Path instead of starting and ending on the same vertex, allows ending on a different vertex.
