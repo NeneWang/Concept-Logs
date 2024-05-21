@@ -5,4 +5,7 @@
 	- What's next
 		- Contributing to Open Source
 		- Pursuing Real Engineering.
+			- Learn deeply about materials, structures, physics making a real impact
+			- Civil Engineering is a great option.
+			-
 	- Follow ups
