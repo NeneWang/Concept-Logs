@@ -9,6 +9,10 @@
 	- ![image.png](../assets/image_1716267748731_0.png)
 	- ![image.png](../assets/image_1716267841252_0.png)
 - What is the Set Partition Problem?
+	- ### Definition
+	  
+	  Given a set 𝑆*S* of 𝑛*n* integers, the goal of the Set Partition problem is to determine whether it is possible to partition 𝑆*S* into two subsets 𝑆1*S*1​ and 𝑆2*S*2​ such that the sum of the elements in 𝑆1*S*1​ is equal to the sum of the elements in 𝑆2*S*2​.
+	-
 - What is the Traveling Salesman Problem?
 	- ### Definition
 	  
