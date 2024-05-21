@@ -6,7 +6,8 @@
 	- This was the ideal job. Desktop, learn, improve your craft kind of.
 	- What I learned
 		- Design studies around a portfolio
-		- Do projects, Honor Projects, go beyond implementation. And
+		- Do projects, Honor Projects, go beyond implementation. And you will learn the most.
+		- Anki, Recording video of concepts as a way of learning
 	- What's next
 		- Contributing to Open Source
 			- Real Progress is done here.
