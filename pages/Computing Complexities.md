@@ -33,3 +33,5 @@
 	- ![image.png](../assets/image_1716276745759_0.png)
 - What is tautology?
 	- The same as valid, no matter which arugment is true
+- What is contradiction
+	- No matter what the final answer is False
