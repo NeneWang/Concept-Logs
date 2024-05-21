@@ -37,5 +37,7 @@
 	- No matter what the final answer is False
 - What reasons student propose?
 	- Faster Computers
-	- Parallel Computers
+		- ![image.png](../assets/image_1716277533696_0.png)
+	- Multi Processors Parallel Computers
+		-
 	- Quantum Computing
