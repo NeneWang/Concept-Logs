@@ -3,4 +3,5 @@
 - [[matplot]]
 - [[Snowflake]]
 - [[Postgresql]]
+- [[Statistical Testing]]
 -
