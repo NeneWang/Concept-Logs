@@ -1,2 +1,2 @@
-- Whats the difference between Euler Cycle and Hamiltonian Cycle?
+- What's the difference between Euler Cycle and Hamiltonian Cycle?
 	-
