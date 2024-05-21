@@ -22,4 +22,7 @@
 	- Returns to the origin city.
 	- How many combinations routes will it take to be explored?
 		- n!; n being the cities
+- Whats the difference between Set Partition Problem and Subset Problem?
+	- Set Partition Problem: The goal is to partition the set into two subsets with equal sum.
+	  Subset Sum Problem: The goal is to find a subset that sums to a given target value.
 -
