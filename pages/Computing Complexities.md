@@ -31,4 +31,5 @@
 	- Difference Sastifability and Valid:
 	  ![image.png](../assets/image_1716276732639_0.png)
 	- ![image.png](../assets/image_1716276745759_0.png)
--
+- What is tautology?
+	- The same as valid, no matter which arugment is true
