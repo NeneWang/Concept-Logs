@@ -25,4 +25,6 @@
 - Whats the difference between Set Partition Problem and Subset Problem?
 	- Set Partition Problem: The goal is to partition the set into two subsets with equal sum.
 	  Subset Sum Problem: The goal is to find a subset that sums to a given target value.
+- Whats the complexity of: the following:
+	- ![image.png](../assets/image_1716271884023_0.png)
 -
