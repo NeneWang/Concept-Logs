@@ -20,3 +20,4 @@
 	- Starts at a specified city (the origin),
 	- Visits each city exactly once,
 	- Returns to the origin city.
+	- How many combinations routes
