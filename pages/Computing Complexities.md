@@ -20,4 +20,6 @@
 	- Starts at a specified city (the origin),
 	- Visits each city exactly once,
 	- Returns to the origin city.
-	- How many combinations routes
+	- How many combinations routes will it take to be explored?
+		- n!; n being the cities
+	-
