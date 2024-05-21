@@ -60,6 +60,7 @@
 			- Trust the piramid, you build energy first => Then you build practical expertise =>
 		- Expand automated leads:
 			- Find people on LinkedIn that are very active talk with them.
+	- [[career]]
 	-
 	-
 - Actionables

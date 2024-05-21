@@ -1,2 +1,4 @@
 - [[Corporate Skills]]
--
+- A rant about Computer Science
+	- AI and reeplaceability
+	-
