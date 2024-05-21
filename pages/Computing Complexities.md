@@ -28,4 +28,7 @@
 - Whats the complexity of: the following:
 	- ![image.png](../assets/image_1716271884023_0.png)
 - How do you prove that something is sastifyiable?
-	- Difference
+	- Difference Sastifability and Valid:
+	  ![image.png](../assets/image_1716276732639_0.png)
+	- ![image.png](../assets/image_1716276745759_0.png)
+-
