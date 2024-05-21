@@ -41,3 +41,4 @@
 	- Multi Processors Parallel Computers
 		-
 	- Quantum Computing
+		- Tries out aall possibilities at the same time.
