@@ -1,7 +1,7 @@
 - What's the difference between Euler Cycle and Hamiltonian Cycle?
 	- ![image.png](../assets/image_1716267482195_0.png)
 	- ![image.png](../assets/image_1716267489965_0.png)
-- Use Euler Cycle to determine if there is a cycle
+- Use Euler Cycle existence to determine if there is a cycle
 	-
 - Whats the difference between Euler Cycle and Euyler path
 	- Euler Path instead of starting and ending on the same vertex, allows ending on a different vertex.
