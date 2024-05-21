@@ -35,4 +35,7 @@
 	- The same as valid, no matter which arugment is true
 - What is contradiction
 	- No matter what the final answer is False
--
+- What reasons student propose?
+	- Faster Computers
+	- Parallel Computers
+	- Quantum Computing
