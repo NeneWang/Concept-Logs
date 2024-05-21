@@ -1,4 +1,8 @@
 - [[Corporate Skills]]
 - A rant about Computer Science
 	- AI and reeplaceability
-	-
+	- This was the ideal job. Desktop, learn, improve your craft kind of.
+	- What's next
+		- Contributing to Open Source
+		- Pursuing Real Engineering.
+	- Follow ups
