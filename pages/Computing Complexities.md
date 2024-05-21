@@ -5,3 +5,4 @@
 	-
 - Whats the difference between Euler Cycle and Euyler path
 	- Euler Path instead of starting and ending on the same vertex, allows ending on a different vertex.
+	- ![image.png](../assets/image_1716267748731_0.png)
