@@ -27,4 +27,5 @@
 	  Subset Sum Problem: The goal is to find a subset that sums to a given target value.
 - Whats the complexity of: the following:
 	- ![image.png](../assets/image_1716271884023_0.png)
--
+- How do you prove that something is sastifyiable?
+	-
