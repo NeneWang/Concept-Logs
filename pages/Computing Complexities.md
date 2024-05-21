@@ -42,3 +42,6 @@
 		-
 	- Quantum Computing
 		- Tries out aall possibilities at the same time.
+	- Better Algorithms
+		- Is likely that not. Because probelms are related.
+	-
