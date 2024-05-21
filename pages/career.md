@@ -1,16 +1,19 @@
 - [[Corporate Skills]]
 - A rant about Computer Science
 	- AI and reeplaceability
+		- While at the moment is not
+		- I predict that it will. CS IS very much exposed to the laptop kind of works.
 	- This was the ideal job. Desktop, learn, improve your craft kind of.
 	- What's next
 		- Contributing to Open Source
 			- Real Progress is done here.
-		-
+		- Reading and learning the Hard Stuff
 		- Pursuing Real Engineering.
 			- Learn deeply about materials, structures, physics making a real impact
-			- Civil Engineering is a great option.
+			- Doctor/Civil Engineering is a great option.
 			- A career where credential matters
 			- If I have to move around then the better.
 	- Follow Ups
 		- How to work
 	- Follow ups
+		-
