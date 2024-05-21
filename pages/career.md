@@ -10,7 +10,8 @@
 		- Anki, Recording video of concepts as a way of learning
 		- Mock Contribute to building your own tools from the tools you are already using as a way of `true mastery`
 			- e.g. Contributing to charting library
-			-
+			- Contributing to `Deap Library`
+				- This strategy is amicable to
 	- What's next
 		- Contributing to Open Source
 			- Real Progress is done here.
