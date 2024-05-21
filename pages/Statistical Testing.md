@@ -1,0 +1,11 @@
+- What is Hypothesis Testing?
+	- As we might know, when we infer something from data, we make an inference based on a collection of samples rather than the true population. The main question that comes from it is: can we trust the result from our data to make a general assumption of the population? This is the main goal of hypothesis testing.
+- What are the steps to properly conduct Hyptohesis testing?
+	- First, form our null hypothesis and alternative hypothesis.
+	- Set our significance level. The significance level varies depending on our use case, but the default value is 0.05.
+	- Perform a statistical test that suits our data.
+	- Check the resulting `p-Value`. If the `p-Value` is smaller than our `significance level`, then we reject the **null hypothesis** in favor of our **alternative hypothesis**. If the `p-Value` is higher than our **significance level**, then we go with our **null hypothesis**
+- Failing to Reject?
+- What is Null Hypothesis?
+- What is Alternative Hypothesis?
+-
