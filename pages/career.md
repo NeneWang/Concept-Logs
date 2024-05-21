@@ -4,8 +4,13 @@
 	- This was the ideal job. Desktop, learn, improve your craft kind of.
 	- What's next
 		- Contributing to Open Source
+			- Real Progress is done here.
+		-
 		- Pursuing Real Engineering.
 			- Learn deeply about materials, structures, physics making a real impact
 			- Civil Engineering is a great option.
-			-
+			- A career where credential matters
+			- If I have to move around then the better.
+	- Follow Ups
+		- How to work
 	- Follow ups
