@@ -4,6 +4,9 @@
 		- While at the moment is not
 		- I predict that it will. CS IS very much exposed to the laptop kind of works.
 	- This was the ideal job. Desktop, learn, improve your craft kind of.
+	- What I learned
+		- Design studies around a portfolio
+		- Do projects, Honor Projects, go beyond implementation. And
 	- What's next
 		- Contributing to Open Source
 			- Real Progress is done here.
