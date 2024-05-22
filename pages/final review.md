@@ -51,7 +51,7 @@
 	- Means that they dont grow fruits at the same time:
 	- ![image.png](../assets/image_1715775967637_0.png)
 	- makes it more challanging to find the right fruit:
-		- So the Spider monkeys have to think and memorize: Which makes thems marter with evolutionaruy pressure.
+		- So the Spider monkeys have to think and memorize: Which makes thems marter with evolutionasterpruy pressure.
 		- ![image.png](../assets/image_1715776075073_0.png)
 - Under what COnditions are territorties not defended?
 	- Territories are not defended if energitacally doenst make sense
