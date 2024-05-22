@@ -37,3 +37,6 @@
 		- ◦ T-test: What it tests, how to interpret
 		- ◦ Chi-squared test: What it tests, how to interpret, contingency tables, expected vs. observed
 		  frequency
+- Hook:
+	- Do go over slides presentations 15 mins to preprare
+	- Prepare by modifying
