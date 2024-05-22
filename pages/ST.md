@@ -9,4 +9,4 @@
 - What is Null Hypothesis?
 - What is Alternative Hypothesis?
 - [[queue st]]
--
+- Make an addon whre you cna copy template code
