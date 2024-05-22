@@ -17,7 +17,7 @@
 		- Connections
 			- Do you need any research assistants?
 				- Connect with the projects that you worked with
-			-
+		-
 	- Developing Job Searching Software
 		- Practicing Introducing yourself!
 		- Keeping track of applications
