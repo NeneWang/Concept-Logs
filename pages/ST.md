@@ -10,3 +10,5 @@
 - What is Alternative Hypothesis?
 - [[queue st]]
 - Make an addon whre you cna copy template code
+- Strategy:
+	-
