@@ -146,7 +146,7 @@
 			- ![image.png](../assets/image_1715778543192_0.png)
 	- Uppercase Chinese Crania
 		- ![image.png](../assets/image_1715778564833_0.png)
-		- Mantains the robust quality, but hte anatomy is still robust
+		- Mantains the robust quality, but hte anatomy is still robustnean
 	- Settlement pacific island
 		- ![image.png](../assets/image_1715778592157_0.png)
 		- Only possible with ships rathern than rafts.
