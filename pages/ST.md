@@ -11,4 +11,7 @@
 - [[queue st]]
 - Make an addon whre you cna copy template code
 - Strategy:
-	-
+	- Anki now
+	- Do pseudo
+	- Do Anki 2
+	- Do Actual good.
