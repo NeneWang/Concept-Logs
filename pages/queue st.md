@@ -10,6 +10,8 @@
 	- In statistical tests, a large p-value is justification for rejecting the null hypothesis
 - TODO Get some df loc practice
 - TODO Get some subplot practice
+- TODO Some general KNearest Practice
+- Some Principakl Compoenent
 -
 - k-Nearest-Neighbors and k-Means Clustering
 	- • Classification and regression as machine learning tasks
