@@ -7,15 +7,14 @@
 - Grouping and aggregating is a good way to smooth noisy data for visualization
 - In statistical tests, a large p-value is justification for rejecting the null hypothesis
 - k-Nearest-Neighbors and k-Means Clustering
-- • Classification and regression as machine learning tasks
-- • Types of machine learning: supervised vs. unsupervised
-- • The k-Nearest-Neighbors algorithm
-- • Evaluating k-Nearest-Neighbors classification with
-- test/validation sets and accuracy
-- • k-Means Clustering algorithm, finding a good value of k
-- • Analyzing and interpreting clusters
-- • Data normalization
-- • Encoding categorical variables
+	- • Classification and regression as machine learning tasks
+	- • Types of machine learning: supervised vs. unsupervised
+	- • The k-Nearest-Neighbors algorithm
+	- • Evaluating k-Nearest-Neighbors classification with test/validation sets and accuracy
+	- • k-Means Clustering algorithm, finding a good value of k
+	- • Analyzing and interpreting clusters
+	- • Data normalization
+	- • Encoding categorical variables
 - Visualization
 	- • Basic differences in functionality between Matplotlib and Seaborn
 	- • The Matplotlib global state machine
