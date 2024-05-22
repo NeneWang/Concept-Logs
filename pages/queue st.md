@@ -17,17 +17,15 @@
 - • Data normalization
 - • Encoding categorical variables
 - Visualization
-- • Basic differences in functionality between Matplotlib and
-- Seaborn
-- • The Matplotlib global state machine
-- • Subplots
+	- • Basic differences in functionality between Matplotlib and Seaborn
+	- • The Matplotlib global state machine
+	- • Subplots
 - Principal component analysis
-- • What it is for and basic mechanics of how it works
-- • Interpretability of principal components
+	- • What it is for and basic mechanics of how it works
+	- • Interpretability of principal components
 - Statistics and Hypothesis Testing
 	- • What statistical tests are for
-	- • Components of a statistical test: Your hypothesis,
-	- null/alternative hypothesis
+	- • Components of a statistical test: Your hypothesis, null/alternative hypothesis
 	- • Errors: Type 1 and Type 2
 	- • Coin flipping example
 	- • p-value: What it is and how to interpret it
