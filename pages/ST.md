@@ -8,4 +8,5 @@
 - Failing to Reject?
 - What is Null Hypothesis?
 - What is Alternative Hypothesis?
+- [[queue st]]
 -
