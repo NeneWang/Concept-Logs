@@ -1,6 +1,8 @@
 - Stats
 	- Takes around 200 job applications
 	- Around 1-2 minutes is what people think they take.
+	- You just need to match 60% of the qualifications
+	- First Description bullet points is what matters.
 - High quality application material:
 	- Highlights Relevant Experience
 	- Show that they are a good cultural fit.
