@@ -23,7 +23,7 @@
 	- • What it is for and basic mechanics of how it works
 	- • Interpretability of principal components
 - Statistics and Hypothesis Testing
-	- • What statistical tests are for
+	- • What statistical tests are for and discussing what does the results mean.
 	- • Components of a statistical test: Your hypothesis, null/alternative hypothesis
 	- • Errors: Type 1 and Type 2
 	- • Coin flipping example
