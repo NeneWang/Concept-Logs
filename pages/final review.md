@@ -67,7 +67,7 @@
 		- Appearence, smell and behavioursjane
 	- Male Lemurs:ardi
 		- Exception do not display dominnat behaviours
-- Solitary Group:
+- Solitary Group:mate
 	- ![image.png](../assets/image_1715776611352_0.png)
 	- Lemurs example: are solitary, are kicked out after mating.
 	- Monogamy, where the father and mother might have affairs outside but:
