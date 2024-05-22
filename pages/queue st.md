@@ -40,7 +40,7 @@
 - Hook:
 	- Do go over slides presentations 15 mins to preprare
 		- Explain by Video
-		- Try to solv
+		- Try to solve problem in video
 		- Check fi missing from outline
 	- Prepare by modifying
 	- Create exercises to compute visualizationas above
