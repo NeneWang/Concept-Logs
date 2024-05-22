@@ -56,7 +56,7 @@
 - Under what COnditions are territorties not defended?
 	- Territories are not defended if energitacally doenst make sense
 - What are the tree settings in which primates are studied
-	- Field, captivity, and Semi Free Studying
+	- Field, captivity, and Semi Free Studyingsexua
 	- ![image.png](../assets/image_1715776401658_0.png)
 	- ![image.png](../assets/image_1715776418509_0.png)
 - What is reproductory Asymmetry?
