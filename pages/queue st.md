@@ -1,4 +1,4 @@
-- TODO What different variations mean Statistically significant:
+- DONE What different variations mean Statistically significant:
 	- You discover that A is positively correlated with variable B, and the effect is statistically
 	  significant. You can conclude that A caused the change in B.
 - TODO Understand what K clustering and similar algorithms does
