@@ -5,4 +5,36 @@
 	- If you perform k-means clustering on a dataset containing different types of tea, the clustering can
 	  help you classify new teas you have never seen before
 - Grouping and aggregating is a good way to smooth noisy data for visualization
-- In statistical tests, a large p-value is justification for rejecting the null hypothesis\
+- In statistical tests, a large p-value is justification for rejecting the null hypothesis
+- k-Nearest-Neighbors and k-Means Clustering
+- • Classification and regression as machine learning tasks
+- • Types of machine learning: supervised vs. unsupervised
+- • The k-Nearest-Neighbors algorithm
+- • Evaluating k-Nearest-Neighbors classification with
+- test/validation sets and accuracy
+- • k-Means Clustering algorithm, finding a good value of k
+- • Analyzing and interpreting clusters
+- • Data normalization
+- • Encoding categorical variables
+- Visualization
+- • Basic differences in functionality between Matplotlib and
+- Seaborn
+- • The Matplotlib global state machine
+- • Subplots
+- Principal component analysis
+- • What it is for and basic mechanics of how it works
+- • Interpretability of principal components
+- Statistics and Hypothesis Testing
+	- • What statistical tests are for
+	- • Components of a statistical test: Your hypothesis,
+	- null/alternative hypothesis
+	- • Errors: Type 1 and Type 2
+	- • Coin flipping example
+	- • p-value: What it is and how to interpret it
+	- • Types of statistical tests:
+		- ◦ Pearson r: What it tests, r value and p value, how to interpret
+		- ◦ Linear regression: What it tests, slope and intercept, how to
+		- interpret
+		- ◦ T-test: What it tests, how to interpret
+		- ◦ Chi-squared test: What it tests, how to interpret, contingency tables, expected vs. observed
+		  frequency
