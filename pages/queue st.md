@@ -1,14 +1,14 @@
 - DONE What different variations mean Statistically significant:
 	- You discover that A is positively correlated with variable B, and the effect is statistically
 	  significant. You can conclude that A caused the change in B.
-- TODO Understand what K clustering and similar algorithms does
+- DONE Understand what K clustering and similar algorithms does
 	- If you perform k-means clustering on a dataset containing different types of tea, the clustering can
 	  help you classify new teas you have never seen before
-- TODO How to clean data, and the data expected by each function
+- DONE How to clean data, and the data expected by each function
 	- Grouping and aggregating is a good way to smooth noisy data for visualization
-- TODO All about p testing etc
+- DONE All about p testing etc
 	- In statistical tests, a large p-value is justification for rejecting the null hypothesis
-- TODO Get some df loc practice
+- DONE Get some df loc practice
 - TODO Get some subplot practice
 - TODO Some general KNearest Practice
 - Some Principakl Compoenent
