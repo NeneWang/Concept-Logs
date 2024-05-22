@@ -4,8 +4,10 @@
 - TODO Understand what K clustering and similar algorithms does
 	- If you perform k-means clustering on a dataset containing different types of tea, the clustering can
 	  help you classify new teas you have never seen before
-- Grouping and aggregating is a good way to smooth noisy data for visualization
-- In statistical tests, a large p-value is justification for rejecting the null hypothesis
+- TODO How to clean data, and the data expected by each function
+	- Grouping and aggregating is a good way to smooth noisy data for visualization
+- TODO All about p testing etc
+	- In statistical tests, a large p-value is justification for rejecting the null hypothesis
 - k-Nearest-Neighbors and k-Means Clustering
 	- • Classification and regression as machine learning tasks
 	- • Types of machine learning: supervised vs. unsupervised
