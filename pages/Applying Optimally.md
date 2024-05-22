@@ -1,5 +1,7 @@
-- Takes around 200 job applications
+- Stats
+	- Takes around 200 job applications
+	- Around 1-2 minutes is what peaople think they take.
 - High quality application material:
 	- Highlights Relevant Experience
 	- Show that they are a good cultural fit.
--
+- Questions
