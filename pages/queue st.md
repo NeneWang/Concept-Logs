@@ -8,7 +8,9 @@
 	- Grouping and aggregating is a good way to smooth noisy data for visualization
 - TODO All about p testing etc
 	- In statistical tests, a large p-value is justification for rejecting the null hypothesis
-- TODO Get some df loc apractice
+- TODO Get some df loc practice
+- TODO Get some subplot practice
+-
 - k-Nearest-Neighbors and k-Means Clustering
 	- • Classification and regression as machine learning tasks
 	- • Types of machine learning: supervised vs. unsupervised
