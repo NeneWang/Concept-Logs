@@ -17,6 +17,7 @@
 		- Connections
 			- Do you need any research assistants?
 				- Connect with the projects that you worked with
+		- [[Applying Optimally]]
 		-
 	- Developing Job Searching Software
 		- Practicing Introducing yourself!
