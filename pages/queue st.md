@@ -40,3 +40,5 @@
 - Hook:
 	- Do go over slides presentations 15 mins to preprare
 	- Prepare by modifying
+	- Create exercises to compute visualizationas above
+	-
