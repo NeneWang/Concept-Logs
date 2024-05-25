@@ -22,5 +22,7 @@
 			- Rent Roll
 				- ![image.png](../assets/image_1716646808836_0.png)
 				- ![image.png](../assets/image_1716646816439_0.png)
-				-
+			- What is gross Rent?
+				- The potential of earning that amount
+					-
 			-
