@@ -34,7 +34,7 @@
 					- Total Expenses
 						- ![image.png](../assets/image_1716647919026_0.png)
 						- ![image.png](../assets/image_1716647926554_0.png)
-					- ![image.png](../assets/image_1716648052439_0.png) Offering Memorandum
+					- ![image.png](../assets/image_1716648052439_0.png)
 						- ![image.png](../assets/image_1716648026418_0.png)
 				-
 	- What is Market Rent
