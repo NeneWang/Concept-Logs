@@ -1,37 +1,43 @@
 - Real Estate Game Idea
 	-
 - Class 1
+  collapsed:: true
+	- Here some key items when it comes to the location, and the items.
+	- The more amenities you have the better.
+	- What makes you great at investing is the limited count of capital.
+	- Gets a lot of reps first.
+	- What is the process of finding prices
+		- ![image.png](../assets/image_1716645310518_0.png)
+		- Ask those building and ask what you can charge.
+			- Things that cane help you understand if you can charge more as such as Year Built.
+		- What drives and increase value?
+			- Understanding Cashflow is what increases the value of the property
+			- ![image.png](../assets/image_1716646219995_0.png)
+				- ![image.png](../assets/image_1716646255591_0.png)
+				- The address and the location is everything.
+				- The easiest way to entrepreneuship
+					- Try to get a large firm first.
+					- Get that exposure
+				- Rent Roll
+					- ![image.png](../assets/image_1716646808836_0.png)
+					- ![image.png](../assets/image_1716646816439_0.png)
+				- What is gross Rent?
+					- The potential of earning that amount
+						- ![image.png](../assets/image_1716646975362_0.png)
+					- Vacancy Loss Formula
+						- ![image.png](../assets/image_1716646990337_0.png)
+					- Total Revenue
+						- Net rent + Other Things here
+						- ![image.png](../assets/image_1716647027698_0.png)
+					- Net Operating Formula
+						- ![image.png](../assets/image_1716647071034_0.png)'
+					- Total Expenses
+						- ![image.png](../assets/image_1716647919026_0.png)
+						- ![image.png](../assets/image_1716647926554_0.png)
+					-
+				-
 	- What is Market Rent
 		- ![image.png](../assets/image_1716645281185_0.png)
 	- Find data about your competition
-- Here some key items when it comes to the location, and the items.
-- The more amenities you have the better.
-- What makes you great at investing is the limited count of capital.
-- Gets a lot of reps first.
-- What is the process of finding prices
-	- ![image.png](../assets/image_1716645310518_0.png)
-	- Ask those building and ask what you can charge.
-		- Things that cane help you understand if you can charge more as such as Year Built.
-	- What drives and increase value?
-		- Understanding Cashflow is what increases the value of the property
-		- ![image.png](../assets/image_1716646219995_0.png)
-			- ![image.png](../assets/image_1716646255591_0.png)
-			- The address and the location is everything.
-			- The easiest way to entrepreneuship
-				- Try to get a large firm first.
-				- Get that exposure
-			- Rent Roll
-				- ![image.png](../assets/image_1716646808836_0.png)
-				- ![image.png](../assets/image_1716646816439_0.png)
-			- What is gross Rent?
-				- The potential of earning that amount
-					- ![image.png](../assets/image_1716646975362_0.png)
-				- Vacancy Loss Formula
-					- ![image.png](../assets/image_1716646990337_0.png)
-				- Total Revenue
-					- Net rent + Other Things here
-					- ![image.png](../assets/image_1716647027698_0.png)
-				- Net Operating Formula
-					- ![image.png](../assets/image_1716647071034_0.png)'
-					-
-			-
+- Class 2
+-
