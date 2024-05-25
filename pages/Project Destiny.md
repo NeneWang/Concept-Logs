@@ -12,4 +12,6 @@
 		- ![image.png](../assets/image_1716646219995_0.png)
 			- ![image.png](../assets/image_1716646255591_0.png)
 			- The address and the location is everything.
+			- Here some key items when it comes to the location, and the items.
+			- The more amenities you have the better.
 			-
