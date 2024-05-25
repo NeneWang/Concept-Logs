@@ -16,4 +16,7 @@
 			- The more amenities you have the better.
 			- What makes you great at investing is the limited count of capital.
 			- Gets a lot of reps first.
+			- The easiest way to entrepreneuship
+				- Try to get a large firm first.
+				- Get that exposure
 			-
