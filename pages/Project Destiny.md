@@ -8,4 +8,5 @@
 	- Ask those building and ask what you can charge.
 		- Things that cane help you understand if you can charge more as such as Year Built.
 	- What drives and increase value?
-		- Understanding Cashflow iswhat increases the value fo the rpo
+		- Understanding Cashflow is what increases the value of the property
+		-
