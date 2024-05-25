@@ -9,5 +9,6 @@
 		- Things that cane help you understand if you can charge more as such as Year Built.
 	- What drives and increase value?
 		- Understanding Cashflow is what increases the value of the property
-		-
-		-
+		- ![image.png](../assets/image_1716646219995_0.png)
+			-
+			-
