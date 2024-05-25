@@ -19,5 +19,8 @@
 			- The easiest way to entrepreneuship
 				- Try to get a large firm first.
 				- Get that exposure
-			-
+			- Rent Roll
+				- ![image.png](../assets/image_1716646808836_0.png)
+				- ![image.png](../assets/image_1716646816439_0.png)
+				-
 			-
