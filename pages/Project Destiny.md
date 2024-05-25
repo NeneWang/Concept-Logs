@@ -1,4 +1,8 @@
+- Real Estate Game Idea
+	-
 - What is Market Rent
 	- ![image.png](../assets/image_1716645281185_0.png)
-	-
--
+	- Find data about your competition
+- What is the process of finding prices
+	- ![image.png](../assets/image_1716645310518_0.png)
+	- Ask those building and ask what you can charge.
