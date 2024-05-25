@@ -15,3 +15,4 @@
 			- Here some key items when it comes to the location, and the items.
 			- The more amenities you have the better.
 			-
+			-
