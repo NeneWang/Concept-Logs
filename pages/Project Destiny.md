@@ -30,5 +30,7 @@
 				- Total Revenue
 					- Net rent + Other Things here
 					- ![image.png](../assets/image_1716647027698_0.png)
-				-
+				- Net Operating Formula
+					- ![image.png](../assets/image_1716647071034_0.png)'
+					-
 			-
