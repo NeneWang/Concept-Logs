@@ -14,5 +14,6 @@
 			- The address and the location is everything.
 			- Here some key items when it comes to the location, and the items.
 			- The more amenities you have the better.
-			-
+			- What makes you great at investing is the limited count of capital.
+			- Gets a lot of reps first.
 			-
