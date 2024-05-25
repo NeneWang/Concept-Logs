@@ -1,0 +1,4 @@
+- What is Market Rent
+	- ![image.png](../assets/image_1716645281185_0.png)
+	-
+-
