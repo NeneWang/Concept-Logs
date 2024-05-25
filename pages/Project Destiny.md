@@ -24,5 +24,11 @@
 				- ![image.png](../assets/image_1716646816439_0.png)
 			- What is gross Rent?
 				- The potential of earning that amount
-					-
+					- ![image.png](../assets/image_1716646975362_0.png)
+				- Vacancy Loss Formula
+					- ![image.png](../assets/image_1716646990337_0.png)
+				- Total Revenue
+					- Net rent + Other Things here
+					- ![image.png](../assets/image_1716647027698_0.png)
+				-
 			-
