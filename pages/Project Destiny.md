@@ -4,6 +4,10 @@
 	- What is Market Rent
 		- ![image.png](../assets/image_1716645281185_0.png)
 	- Find data about your competition
+- Here some key items when it comes to the location, and the items.
+- The more amenities you have the better.
+- What makes you great at investing is the limited count of capital.
+- Gets a lot of reps first.
 - What is the process of finding prices
 	- ![image.png](../assets/image_1716645310518_0.png)
 	- Ask those building and ask what you can charge.
@@ -13,10 +17,6 @@
 		- ![image.png](../assets/image_1716646219995_0.png)
 			- ![image.png](../assets/image_1716646255591_0.png)
 			- The address and the location is everything.
-			- Here some key items when it comes to the location, and the items.
-			- The more amenities you have the better.
-			- What makes you great at investing is the limited count of capital.
-			- Gets a lot of reps first.
 			- The easiest way to entrepreneuship
 				- Try to get a large firm first.
 				- Get that exposure
