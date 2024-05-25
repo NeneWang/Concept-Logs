@@ -10,3 +10,4 @@
 	- What drives and increase value?
 		- Understanding Cashflow is what increases the value of the property
 		-
+		-
